@@ -1,25 +1,5 @@
 [
   {
-    "title": "chore: Update update-draft-hips.yml",
-    "number": 1175,
-    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1175",
-    "headRefOid": "529e564d1b74782f0f2ca70fdc03c15a3d064192",
-    "files": {
-      "edges": [
-        {
-          "node": {
-            "path": ".github/workflows/update-draft-hips.yml",
-            "additions": 17,
-            "deletions": 5
-          }
-        }
-      ]
-    },
-    "author": {
-      "login": "rbarker-dev"
-    }
-  },
-  {
     "title": "HIP 1056: Add 8 leaf merkle tree and Trace Data improvements",
     "number": 1173,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1173",
@@ -103,30 +83,10 @@
     }
   },
   {
-    "title": "Hip 1085 Extra adds by nana and Fer",
-    "number": 1169,
-    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1169",
-    "headRefOid": "9e66d26b767ae657bb2a6f3fde2bd0596ea75e18",
-    "files": {
-      "edges": [
-        {
-          "node": {
-            "path": "HIP/hip-1086.md",
-            "additions": 24,
-            "deletions": 13
-          }
-        }
-      ]
-    },
-    "author": {
-      "login": "Ferparishuertas"
-    }
-  },
-  {
     "title": "NEW HIP: Improve Hedera Sharding",
     "number": 1151,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1151",
-    "headRefOid": "4e973a25685c430788254c3b5f3c5af52e4fc09f",
+    "headRefOid": "7a4902657919383a17c62fecc4a0a290640aa6ce",
     "files": {
       "edges": [
         {
@@ -139,7 +99,7 @@
         {
           "node": {
             "path": "hip-0000-improve-hedera-sharding.md",
-            "additions": 173,
+            "additions": 175,
             "deletions": 0
           }
         }
@@ -303,13 +263,13 @@
     "title": "Jumbo EthereumTransactions",
     "number": 1086,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1086",
-    "headRefOid": "25aa328782a1edba77a303c0255fe309787a4998",
+    "headRefOid": "9b250e21e5b1a5f481684db9224eea62a9009442",
     "files": {
       "edges": [
         {
           "node": {
             "path": "HIP/hip-1086.md",
-            "additions": 170,
+            "additions": 181,
             "deletions": 0
           }
         },
