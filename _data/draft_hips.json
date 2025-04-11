@@ -3,14 +3,14 @@
     "title": "HIP 1056: Add 8 leaf merkle tree and Trace Data improvements",
     "number": 1173,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1173",
-    "headRefOid": "341dfcc9a8023a89d40412ae34756b9c43950f0a",
+    "headRefOid": "a8fddcabefd0803572e5a6f22ecc045973f410e9",
     "files": {
       "edges": [
         {
           "node": {
             "path": "HIP/hip-1056.md",
-            "additions": 138,
-            "deletions": 81
+            "additions": 147,
+            "deletions": 88
           }
         },
         {
@@ -44,22 +44,22 @@
         {
           "node": {
             "path": "assets/hip-1056/protobuf/stream/output/smart_contract_service.proto",
-            "additions": 134,
-            "deletions": 54
+            "additions": 164,
+            "deletions": 55
           }
         },
         {
           "node": {
             "path": "assets/hip-1056/protobuf/stream/output/state_changes.proto",
-            "additions": 35,
-            "deletions": 4
+            "additions": 33,
+            "deletions": 2
           }
         },
         {
           "node": {
             "path": "assets/hip-1056/protobuf/stream/output/transaction_output.proto",
-            "additions": 2,
-            "deletions": 12
+            "additions": 3,
+            "deletions": 13
           }
         },
         {
