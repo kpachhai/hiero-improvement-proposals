@@ -1,5 +1,32 @@
 [
   {
+    "title": "Bump actions/setup-node from 4.3.0 to 4.4.0",
+    "number": 1176,
+    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1176",
+    "headRefOid": "0afb92021a2d33e2b07050cab2cdfd3af4d280c1",
+    "files": {
+      "edges": [
+        {
+          "node": {
+            "path": ".github/workflows/update-draft-hips.yml",
+            "additions": 1,
+            "deletions": 1
+          }
+        },
+        {
+          "node": {
+            "path": ".github/workflows/validateHeaders.yml",
+            "additions": 1,
+            "deletions": 1
+          }
+        }
+      ]
+    },
+    "author": {
+      "login": "dependabot"
+    }
+  },
+  {
     "title": "HIP 1056: Add 8 leaf merkle tree and Trace Data improvements",
     "number": 1173,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1173",
