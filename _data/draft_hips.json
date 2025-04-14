@@ -1,42 +1,35 @@
 [
   {
-    "title": "Bump actions/setup-node from 4.3.0 to 4.4.0",
-    "number": 1176,
-    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1176",
-    "headRefOid": "0afb92021a2d33e2b07050cab2cdfd3af4d280c1",
+    "title": "Generalized Schedule Contract Call",
+    "number": 1179,
+    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1179",
+    "headRefOid": "23a1e0a12a7cd0052dd4ff47d8b3000fac49c2af",
     "files": {
       "edges": [
         {
           "node": {
-            "path": ".github/workflows/update-draft-hips.yml",
-            "additions": 1,
-            "deletions": 1
-          }
-        },
-        {
-          "node": {
-            "path": ".github/workflows/validateHeaders.yml",
-            "additions": 1,
-            "deletions": 1
+            "path": "hip-0000.md",
+            "additions": 91,
+            "deletions": 0
           }
         }
       ]
     },
     "author": {
-      "login": "dependabot"
+      "login": "littletarzan"
     }
   },
   {
     "title": "HIP 1056: Add 8 leaf merkle tree and Trace Data improvements",
     "number": 1173,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1173",
-    "headRefOid": "a8fddcabefd0803572e5a6f22ecc045973f410e9",
+    "headRefOid": "769989d35c33dc3df66e27eaea157d52d4c14431",
     "files": {
       "edges": [
         {
           "node": {
             "path": "HIP/hip-1056.md",
-            "additions": 147,
+            "additions": 145,
             "deletions": 88
           }
         },
@@ -71,8 +64,8 @@
         {
           "node": {
             "path": "assets/hip-1056/protobuf/stream/output/smart_contract_service.proto",
-            "additions": 164,
-            "deletions": 55
+            "additions": 151,
+            "deletions": 57
           }
         },
         {
