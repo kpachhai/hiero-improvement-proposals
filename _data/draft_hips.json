@@ -3,13 +3,13 @@
     "title": "The hinTS threshold signature scheme",
     "number": 1183,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1183",
-    "headRefOid": "73b0189cc54364ee65384fedc532253e5c76b490",
+    "headRefOid": "b0a6376d3b3178dcc08a90c6fa3316bb0a1b5a91",
     "files": {
       "edges": [
         {
           "node": {
-            "path": "HIP/hip-0000-tss.md",
-            "additions": 315,
+            "path": "HIP/hip-1183.md",
+            "additions": 478,
             "deletions": 0
           }
         }
