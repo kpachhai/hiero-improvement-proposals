@@ -63,14 +63,14 @@
     "title": "HIP 1056: Add 8 leaf merkle tree and Trace Data improvements",
     "number": 1173,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1173",
-    "headRefOid": "203e2f9ae460e1b874942b9e0ff3c70f4d29c33c",
+    "headRefOid": "b45ab915411ad755fb6f3d3f705e7db0d14be5dd",
     "files": {
       "edges": [
         {
           "node": {
             "path": "HIP/hip-1056.md",
-            "additions": 230,
-            "deletions": 100
+            "additions": 231,
+            "deletions": 101
           }
         },
         {
