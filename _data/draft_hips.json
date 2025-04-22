@@ -63,7 +63,7 @@
     "title": "HIP 1056: Add 8 leaf merkle tree and Trace Data improvements",
     "number": 1173,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1173",
-    "headRefOid": "a6cd6b20a5428cd7cbb971d9c6a78473ac832a67",
+    "headRefOid": "203e2f9ae460e1b874942b9e0ff3c70f4d29c33c",
     "files": {
       "edges": [
         {
@@ -89,51 +89,121 @@
         },
         {
           "node": {
+            "path": "assets/hip-1056/protobuf/stream/block.proto",
+            "additions": 1,
+            "deletions": 15
+          }
+        },
+        {
+          "node": {
             "path": "assets/hip-1056/protobuf/stream/block_item.proto",
-            "additions": 54,
-            "deletions": 2
+            "additions": 55,
+            "deletions": 17
           }
         },
         {
           "node": {
             "path": "assets/hip-1056/protobuf/stream/block_proof.proto",
-            "additions": 15,
-            "deletions": 0
+            "additions": 16,
+            "deletions": 15
+          }
+        },
+        {
+          "node": {
+            "path": "assets/hip-1056/protobuf/stream/input/round_header.proto",
+            "additions": 1,
+            "deletions": 15
+          }
+        },
+        {
+          "node": {
+            "path": "assets/hip-1056/protobuf/stream/output/block_header.proto",
+            "additions": 3,
+            "deletions": 77
+          }
+        },
+        {
+          "node": {
+            "path": "assets/hip-1056/protobuf/stream/output/consensus_service.proto",
+            "additions": 1,
+            "deletions": 15
           }
         },
         {
           "node": {
             "path": "assets/hip-1056/protobuf/stream/output/crypto_service.proto",
-            "additions": 15,
-            "deletions": 32
+            "additions": 16,
+            "deletions": 47
+          }
+        },
+        {
+          "node": {
+            "path": "assets/hip-1056/protobuf/stream/output/file_service.proto",
+            "additions": 1,
+            "deletions": 15
+          }
+        },
+        {
+          "node": {
+            "path": "assets/hip-1056/protobuf/stream/output/network_service.proto",
+            "additions": 1,
+            "deletions": 15
+          }
+        },
+        {
+          "node": {
+            "path": "assets/hip-1056/protobuf/stream/output/schedule_service.proto",
+            "additions": 1,
+            "deletions": 15
           }
         },
         {
           "node": {
             "path": "assets/hip-1056/protobuf/stream/output/smart_contract_service.proto",
-            "additions": 189,
-            "deletions": 62
+            "additions": 190,
+            "deletions": 77
           }
         },
         {
           "node": {
             "path": "assets/hip-1056/protobuf/stream/output/state_changes.proto",
-            "additions": 33,
-            "deletions": 2
+            "additions": 156,
+            "deletions": 17
+          }
+        },
+        {
+          "node": {
+            "path": "assets/hip-1056/protobuf/stream/output/token_service.proto",
+            "additions": 1,
+            "deletions": 15
           }
         },
         {
           "node": {
             "path": "assets/hip-1056/protobuf/stream/output/transaction_output.proto",
-            "additions": 3,
-            "deletions": 13
+            "additions": 4,
+            "deletions": 28
           }
         },
         {
           "node": {
             "path": "assets/hip-1056/protobuf/stream/output/transaction_result.proto",
-            "additions": 32,
-            "deletions": 2
+            "additions": 33,
+            "deletions": 17
+          }
+        },
+        {
+          "node": {
+            "path": "assets/hip-1056/protobuf/stream/output/util_service.proto",
+            "additions": 1,
+            "deletions": 15
+          }
+        },
+        {
+          "node": {
+            "path": "assets/hip-1056/protobuf/stream/record_file_item.proto",
+            "additions": 21,
+            "deletions": 17
           }
         },
         {
