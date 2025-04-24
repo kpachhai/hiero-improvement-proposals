@@ -80,166 +80,6 @@
     }
   },
   {
-    "title": "HIP 1056: Add 8 leaf merkle tree and Trace Data improvements",
-    "number": 1173,
-    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1173",
-    "headRefOid": "b45ab915411ad755fb6f3d3f705e7db0d14be5dd",
-    "files": {
-      "edges": [
-        {
-          "node": {
-            "path": "HIP/hip-1056.md",
-            "additions": 231,
-            "deletions": 101
-          }
-        },
-        {
-          "node": {
-            "path": "assets/hip-1056/block-stream-items.svg",
-            "additions": 1,
-            "deletions": 1
-          }
-        },
-        {
-          "node": {
-            "path": "assets/hip-1056/block-stream-merkle.svg",
-            "additions": 1,
-            "deletions": 1
-          }
-        },
-        {
-          "node": {
-            "path": "assets/hip-1056/protobuf/stream/block.proto",
-            "additions": 1,
-            "deletions": 15
-          }
-        },
-        {
-          "node": {
-            "path": "assets/hip-1056/protobuf/stream/block_item.proto",
-            "additions": 55,
-            "deletions": 17
-          }
-        },
-        {
-          "node": {
-            "path": "assets/hip-1056/protobuf/stream/block_proof.proto",
-            "additions": 16,
-            "deletions": 15
-          }
-        },
-        {
-          "node": {
-            "path": "assets/hip-1056/protobuf/stream/input/round_header.proto",
-            "additions": 1,
-            "deletions": 15
-          }
-        },
-        {
-          "node": {
-            "path": "assets/hip-1056/protobuf/stream/output/block_header.proto",
-            "additions": 3,
-            "deletions": 77
-          }
-        },
-        {
-          "node": {
-            "path": "assets/hip-1056/protobuf/stream/output/consensus_service.proto",
-            "additions": 1,
-            "deletions": 15
-          }
-        },
-        {
-          "node": {
-            "path": "assets/hip-1056/protobuf/stream/output/crypto_service.proto",
-            "additions": 16,
-            "deletions": 47
-          }
-        },
-        {
-          "node": {
-            "path": "assets/hip-1056/protobuf/stream/output/file_service.proto",
-            "additions": 1,
-            "deletions": 15
-          }
-        },
-        {
-          "node": {
-            "path": "assets/hip-1056/protobuf/stream/output/network_service.proto",
-            "additions": 1,
-            "deletions": 15
-          }
-        },
-        {
-          "node": {
-            "path": "assets/hip-1056/protobuf/stream/output/schedule_service.proto",
-            "additions": 1,
-            "deletions": 15
-          }
-        },
-        {
-          "node": {
-            "path": "assets/hip-1056/protobuf/stream/output/smart_contract_service.proto",
-            "additions": 190,
-            "deletions": 77
-          }
-        },
-        {
-          "node": {
-            "path": "assets/hip-1056/protobuf/stream/output/state_changes.proto",
-            "additions": 156,
-            "deletions": 17
-          }
-        },
-        {
-          "node": {
-            "path": "assets/hip-1056/protobuf/stream/output/token_service.proto",
-            "additions": 1,
-            "deletions": 15
-          }
-        },
-        {
-          "node": {
-            "path": "assets/hip-1056/protobuf/stream/output/transaction_output.proto",
-            "additions": 4,
-            "deletions": 28
-          }
-        },
-        {
-          "node": {
-            "path": "assets/hip-1056/protobuf/stream/output/transaction_result.proto",
-            "additions": 33,
-            "deletions": 17
-          }
-        },
-        {
-          "node": {
-            "path": "assets/hip-1056/protobuf/stream/output/util_service.proto",
-            "additions": 1,
-            "deletions": 15
-          }
-        },
-        {
-          "node": {
-            "path": "assets/hip-1056/protobuf/stream/record_file_item.proto",
-            "additions": 21,
-            "deletions": 17
-          }
-        },
-        {
-          "node": {
-            "path": "assets/hip-1056/root-hashes.svg",
-            "additions": 1,
-            "deletions": 1
-          }
-        }
-      ]
-    },
-    "author": {
-      "login": "Nana-EC"
-    }
-  },
-  {
     "title": "NEW HIP: Improve Hedera Sharding",
     "number": 1151,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1151",
@@ -665,13 +505,13 @@
     "title": "HIP-1056: Block Streams",
     "number": 1056,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1056",
-    "headRefOid": "2b2937fff2ab6a6ef8c7f123445985801bafa20b",
+    "headRefOid": "786c6ec36fcfa3069b3b9c9f2e55dc520eb1fdc2",
     "files": {
       "edges": [
         {
           "node": {
             "path": "HIP/hip-1056.md",
-            "additions": 1865,
+            "additions": 1995,
             "deletions": 0
           }
         },
@@ -699,21 +539,21 @@
         {
           "node": {
             "path": "assets/hip-1056/protobuf/stream/block.proto",
-            "additions": 71,
+            "additions": 57,
             "deletions": 0
           }
         },
         {
           "node": {
             "path": "assets/hip-1056/protobuf/stream/block_item.proto",
-            "additions": 262,
+            "additions": 300,
             "deletions": 0
           }
         },
         {
           "node": {
             "path": "assets/hip-1056/protobuf/stream/block_proof.proto",
-            "additions": 212,
+            "additions": 213,
             "deletions": 0
           }
         },
@@ -727,98 +567,98 @@
         {
           "node": {
             "path": "assets/hip-1056/protobuf/stream/input/round_header.proto",
-            "additions": 46,
+            "additions": 32,
             "deletions": 0
           }
         },
         {
           "node": {
             "path": "assets/hip-1056/protobuf/stream/output/block_header.proto",
-            "additions": 170,
-            "deletions": 0
-          }
-        },
-        {
-          "node": {
-            "path": "assets/hip-1056/protobuf/stream/output/consensus_service.proto",
-            "additions": 164,
-            "deletions": 0
-          }
-        },
-        {
-          "node": {
-            "path": "assets/hip-1056/protobuf/stream/output/crypto_service.proto",
-            "additions": 119,
-            "deletions": 0
-          }
-        },
-        {
-          "node": {
-            "path": "assets/hip-1056/protobuf/stream/output/file_service.proto",
             "additions": 96,
             "deletions": 0
           }
         },
         {
           "node": {
+            "path": "assets/hip-1056/protobuf/stream/output/consensus_service.proto",
+            "additions": 150,
+            "deletions": 0
+          }
+        },
+        {
+          "node": {
+            "path": "assets/hip-1056/protobuf/stream/output/crypto_service.proto",
+            "additions": 88,
+            "deletions": 0
+          }
+        },
+        {
+          "node": {
+            "path": "assets/hip-1056/protobuf/stream/output/file_service.proto",
+            "additions": 82,
+            "deletions": 0
+          }
+        },
+        {
+          "node": {
             "path": "assets/hip-1056/protobuf/stream/output/network_service.proto",
-            "additions": 48,
+            "additions": 34,
             "deletions": 0
           }
         },
         {
           "node": {
             "path": "assets/hip-1056/protobuf/stream/output/schedule_service.proto",
-            "additions": 122,
+            "additions": 108,
             "deletions": 0
           }
         },
         {
           "node": {
             "path": "assets/hip-1056/protobuf/stream/output/smart_contract_service.proto",
-            "additions": 161,
+            "additions": 274,
             "deletions": 0
           }
         },
         {
           "node": {
             "path": "assets/hip-1056/protobuf/stream/output/state_changes.proto",
-            "additions": 865,
+            "additions": 1004,
             "deletions": 0
           }
         },
         {
           "node": {
             "path": "assets/hip-1056/protobuf/stream/output/token_service.proto",
-            "additions": 203,
+            "additions": 189,
             "deletions": 0
           }
         },
         {
           "node": {
             "path": "assets/hip-1056/protobuf/stream/output/transaction_output.proto",
-            "additions": 159,
+            "additions": 135,
             "deletions": 0
           }
         },
         {
           "node": {
             "path": "assets/hip-1056/protobuf/stream/output/transaction_result.proto",
-            "additions": 136,
+            "additions": 152,
             "deletions": 0
           }
         },
         {
           "node": {
             "path": "assets/hip-1056/protobuf/stream/output/util_service.proto",
-            "additions": 67,
+            "additions": 53,
             "deletions": 0
           }
         },
         {
           "node": {
             "path": "assets/hip-1056/protobuf/stream/record_file_item.proto",
-            "additions": 92,
+            "additions": 96,
             "deletions": 0
           }
         },
