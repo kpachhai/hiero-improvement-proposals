@@ -1,45 +1,5 @@
 [
   {
-    "title": "Update MAINTAINERS.md",
-    "number": 1188,
-    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1188",
-    "headRefOid": "12090dbff7185dc442cdfa72f10dcaa55dea86bf",
-    "files": {
-      "edges": [
-        {
-          "node": {
-            "path": "MAINTAINERS.md",
-            "additions": 5,
-            "deletions": 3
-          }
-        }
-      ]
-    },
-    "author": {
-      "login": "hendrikebbers"
-    }
-  },
-  {
-    "title": "Update hip-1086 with Batch transactions limitations",
-    "number": 1184,
-    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1184",
-    "headRefOid": "b0b2a603c3c2b93dbbbd2f6c052bcafce4603eb5",
-    "files": {
-      "edges": [
-        {
-          "node": {
-            "path": "HIP/hip-1086.md",
-            "additions": 3,
-            "deletions": 0
-          }
-        }
-      ]
-    },
-    "author": {
-      "login": "Ferparishuertas"
-    }
-  },
-  {
     "title": "The hinTS threshold signature scheme",
     "number": 1183,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1183",
@@ -280,13 +240,13 @@
     "title": "Jumbo EthereumTransactions",
     "number": 1086,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1086",
-    "headRefOid": "9b250e21e5b1a5f481684db9224eea62a9009442",
+    "headRefOid": "abc66417ddc76469893aca8cfd01e03fd05f0ecb",
     "files": {
       "edges": [
         {
           "node": {
             "path": "HIP/hip-1086.md",
-            "additions": 181,
+            "additions": 184,
             "deletions": 0
           }
         },
