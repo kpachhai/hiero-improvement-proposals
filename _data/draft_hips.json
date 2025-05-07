@@ -1,5 +1,25 @@
 [
   {
+    "title": "Improvements to the Wallet Connect implementation for dApps on Hedera",
+    "number": 1190,
+    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1190",
+    "headRefOid": "26fbaea2a391b430e682ffc0bb3e8489a9857bc2",
+    "files": {
+      "edges": [
+        {
+          "node": {
+            "path": "HIP/hip-1190.md",
+            "additions": 181,
+            "deletions": 0
+          }
+        }
+      ]
+    },
+    "author": {
+      "login": "mgarbs"
+    }
+  },
+  {
     "title": "The hinTS threshold signature scheme",
     "number": 1183,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1183",
@@ -383,26 +403,6 @@
     },
     "author": {
       "login": "Nana-EC"
-    }
-  },
-  {
-    "title": "Update hip-1046.md",
-    "number": 1066,
-    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1066",
-    "headRefOid": "c975af767991e5d81b1a7e97843b6a6873c2efcd",
-    "files": {
-      "edges": [
-        {
-          "node": {
-            "path": "HIP/hip-1046.md",
-            "additions": 157,
-            "deletions": 79
-          }
-        }
-      ]
-    },
-    "author": {
-      "login": "Mark-Swirlds"
     }
   },
   {
