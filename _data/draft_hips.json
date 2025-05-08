@@ -307,34 +307,55 @@
     "title": "Block Node",
     "number": 1081,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1081",
-    "headRefOid": "f2b3a35760de1b9e6105445636edee23356014e4",
+    "headRefOid": "8ecf437a8cdf6094746c2e9c891b60de0ed4c3e1",
     "files": {
       "edges": [
         {
           "node": {
             "path": "HIP/hip-1081.md",
-            "additions": 664,
+            "additions": 694,
+            "deletions": 0
+          }
+        },
+        {
+          "node": {
+            "path": "assets/hip-1081/images/block_node_network_architecture.svg",
+            "additions": 1,
             "deletions": 0
           }
         },
         {
           "node": {
             "path": "assets/hip-1081/protobuf/block_access_service.proto",
-            "additions": 163,
+            "additions": 154,
             "deletions": 0
           }
         },
         {
           "node": {
-            "path": "assets/hip-1081/protobuf/block_stream_service.proto",
-            "additions": 585,
+            "path": "assets/hip-1081/protobuf/block_stream_publish_service.proto",
+            "additions": 385,
+            "deletions": 0
+          }
+        },
+        {
+          "node": {
+            "path": "assets/hip-1081/protobuf/block_stream_subscribe_service.proto",
+            "additions": 193,
+            "deletions": 0
+          }
+        },
+        {
+          "node": {
+            "path": "assets/hip-1081/protobuf/node_service.proto",
+            "additions": 112,
             "deletions": 0
           }
         },
         {
           "node": {
             "path": "assets/hip-1081/protobuf/proof_service.proto",
-            "additions": 28,
+            "additions": 259,
             "deletions": 0
           }
         },
@@ -342,6 +363,13 @@
           "node": {
             "path": "assets/hip-1081/protobuf/reconnect_service.proto",
             "additions": 18,
+            "deletions": 0
+          }
+        },
+        {
+          "node": {
+            "path": "assets/hip-1081/protobuf/shared_message_types.proto",
+            "additions": 127,
             "deletions": 0
           }
         },
