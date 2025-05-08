@@ -1,5 +1,39 @@
 [
   {
+    "title": "Update completed hips (HIP-551, HIP-632, HIP-1064)",
+    "number": 1191,
+    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1191",
+    "headRefOid": "05a995195caf38118cd219cbf36604ea8c707304",
+    "files": {
+      "edges": [
+        {
+          "node": {
+            "path": "HIP/hip-1064.md",
+            "additions": 3,
+            "deletions": 2
+          }
+        },
+        {
+          "node": {
+            "path": "HIP/hip-551.md",
+            "additions": 3,
+            "deletions": 2
+          }
+        },
+        {
+          "node": {
+            "path": "HIP/hip-632.md",
+            "additions": 3,
+            "deletions": 2
+          }
+        }
+      ]
+    },
+    "author": {
+      "login": "jnels124"
+    }
+  },
+  {
     "title": "Improvements to the Wallet Connect implementation for dApps on Hedera",
     "number": 1190,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1190",
