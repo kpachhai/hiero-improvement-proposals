@@ -1,5 +1,25 @@
 [
   {
+    "title": "HIP-1193.md - Records to block streams cutover",
+    "number": 1193,
+    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1193",
+    "headRefOid": "b6a950e96b6cd1374c424c0b6760f93dc8b06ae7",
+    "files": {
+      "edges": [
+        {
+          "node": {
+            "path": "HIP/hip-1193.md",
+            "additions": 267,
+            "deletions": 0
+          }
+        }
+      ]
+    },
+    "author": {
+      "login": "Mark-Swirlds"
+    }
+  },
+  {
     "title": "Update completed hips (HIP-551, HIP-632, HIP-1064)",
     "number": 1191,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1191",
