@@ -311,33 +311,6 @@
     }
   },
   {
-    "title": "Jumbo EthereumTransactions",
-    "number": 1086,
-    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1086",
-    "headRefOid": "abc66417ddc76469893aca8cfd01e03fd05f0ecb",
-    "files": {
-      "edges": [
-        {
-          "node": {
-            "path": "HIP/hip-1086.md",
-            "additions": 184,
-            "deletions": 0
-          }
-        },
-        {
-          "node": {
-            "path": "_data/draft_hips.json",
-            "additions": 211,
-            "deletions": 100
-          }
-        }
-      ]
-    },
-    "author": {
-      "login": "Nana-EC"
-    }
-  },
-  {
     "title": "Allow Setting of EVM Address by EOA",
     "number": 1082,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1082",
