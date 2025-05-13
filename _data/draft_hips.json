@@ -1,5 +1,32 @@
 [
   {
+    "title": "Support multiple categories on hips",
+    "number": 1194,
+    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1194",
+    "headRefOid": "3115d606635952e0857fffc8999fab742368aedf",
+    "files": {
+      "edges": [
+        {
+          "node": {
+            "path": "HIP/hip-1028.md",
+            "additions": 2,
+            "deletions": 2
+          }
+        },
+        {
+          "node": {
+            "path": "assets/js/filter.js",
+            "additions": 11,
+            "deletions": 8
+          }
+        }
+      ]
+    },
+    "author": {
+      "login": "mgarbs"
+    }
+  },
+  {
     "title": "HIP-1193.md - Records to block streams cutover",
     "number": 1193,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1193",
