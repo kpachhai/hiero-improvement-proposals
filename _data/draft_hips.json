@@ -20,7 +20,7 @@
     }
   },
   {
-    "title": "HIP-1193.md - Records to block streams cutover",
+    "title": "HIP-1193 - Records to block streams cutover",
     "number": 1193,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1193",
     "headRefOid": "b6a950e96b6cd1374c424c0b6760f93dc8b06ae7",
