@@ -1,5 +1,45 @@
 [
   {
+    "title": "chore: Update MAINTAINERS.md - Update names and affiliations",
+    "number": 1197,
+    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1197",
+    "headRefOid": "8f892ee57c7bd6e4c8cad94f66da182939ac28aa",
+    "files": {
+      "edges": [
+        {
+          "node": {
+            "path": "MAINTAINERS.md",
+            "additions": 5,
+            "deletions": 5
+          }
+        }
+      ]
+    },
+    "author": {
+      "login": "jwagantall"
+    }
+  },
+  {
+    "title": "Update hip-0000-template.md",
+    "number": 1196,
+    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1196",
+    "headRefOid": "fc7fa27a56d3ef4a37455ac43ec1baa518c1881e",
+    "files": {
+      "edges": [
+        {
+          "node": {
+            "path": "hip-0000-template.md",
+            "additions": 8,
+            "deletions": 2
+          }
+        }
+      ]
+    },
+    "author": {
+      "login": "Reccetech"
+    }
+  },
+  {
     "title": "Hiero hooks",
     "number": 1195,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1195",
