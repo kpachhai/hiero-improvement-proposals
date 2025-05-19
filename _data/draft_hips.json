@@ -1,5 +1,25 @@
 [
   {
+    "title": "Bump step-security/action-send-mail from 3.12.0 to 5.0.0",
+    "number": 1198,
+    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1198",
+    "headRefOid": "a6eb8237a6cac55875387988dc1b3e0910057f50",
+    "files": {
+      "edges": [
+        {
+          "node": {
+            "path": ".github/workflows/send-email.yml",
+            "additions": 1,
+            "deletions": 1
+          }
+        }
+      ]
+    },
+    "author": {
+      "login": "dependabot"
+    }
+  },
+  {
     "title": "chore: Update MAINTAINERS.md - Update names and affiliations",
     "number": 1197,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1197",
