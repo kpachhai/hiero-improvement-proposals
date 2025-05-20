@@ -600,13 +600,13 @@
     "title": "HIP-1056: Block Streams",
     "number": 1056,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1056",
-    "headRefOid": "ccab688674b6a942f49f42b2fa6d05ee7110b188",
+    "headRefOid": "e3b190ab1f19783bcd88fb211c1f19c42c95c1e3",
     "files": {
       "edges": [
         {
           "node": {
             "path": "HIP/hip-1056.md",
-            "additions": 1997,
+            "additions": 2003,
             "deletions": 0
           }
         },
