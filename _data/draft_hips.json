@@ -1,5 +1,25 @@
 [
   {
+    "title": "Update hip-1021.md to Final",
+    "number": 1202,
+    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1202",
+    "headRefOid": "d9915a6a7e9a94edc8267824c8850230d3d7e3bc",
+    "files": {
+      "edges": [
+        {
+          "node": {
+            "path": "HIP/hip-1021.md",
+            "additions": 3,
+            "deletions": 2
+          }
+        }
+      ]
+    },
+    "author": {
+      "login": "mgarbs"
+    }
+  },
+  {
     "title": "Update Terminology: Hiero Approves, Hedera Council Accepts",
     "number": 1201,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1201",
