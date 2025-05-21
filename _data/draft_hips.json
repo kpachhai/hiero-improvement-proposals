@@ -141,12 +141,12 @@
     "title": "The hinTS threshold signature scheme",
     "number": 1200,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1200",
-    "headRefOid": "b68fe379ad530f5377abfe27fff8d1e9f9b2c424",
+    "headRefOid": "90446747aa47d42a27b5c47c4e710bf6d91ae879",
     "files": {
       "edges": [
         {
           "node": {
-            "path": "HIP/hip-1183.md",
+            "path": "HIP/hip-1200.md",
             "additions": 478,
             "deletions": 0
           }
@@ -181,7 +181,7 @@
     "title": "chore: Update MAINTAINERS.md - Update names and affiliations",
     "number": 1197,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1197",
-    "headRefOid": "6253c945cd39b6b509a82f5e6c2e3c1888f1c20c",
+    "headRefOid": "37c0f56969c50b2d5ecae6a7a4bc01affadbbce6",
     "files": {
       "edges": [
         {
