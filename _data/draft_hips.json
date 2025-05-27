@@ -1,5 +1,46 @@
 [
   {
+    "title": "Add Draft HIPs to Search Functionality",
+    "number": 1204,
+    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1204",
+    "headRefOid": "5e8e476bcd0ea9a033558d4ae32366c31e653ced",
+    "files": {
+      "edges": [
+        {
+          "node": {
+            "path": "_includes/search-form.html",
+            "additions": 12,
+            "deletions": 9
+          }
+        },
+        {
+          "node": {
+            "path": "assets/css/style.scss",
+            "additions": 26,
+            "deletions": 2
+          }
+        },
+        {
+          "node": {
+            "path": "assets/js/enhanced-search.js",
+            "additions": 433,
+            "deletions": 0
+          }
+        },
+        {
+          "node": {
+            "path": "assets/js/search-results.js",
+            "additions": 23,
+            "deletions": 7
+          }
+        }
+      ]
+    },
+    "author": {
+      "login": "mgarbs"
+    }
+  },
+  {
     "title": "Update HIP-1046 with mirror node details",
     "number": 1203,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1203",
