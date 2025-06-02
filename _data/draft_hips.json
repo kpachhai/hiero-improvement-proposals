@@ -1,5 +1,39 @@
 [
   {
+    "title": "Bump step-security/ghaction-import-gpg from 6.1.0 to 6.3.0",
+    "number": 1206,
+    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1206",
+    "headRefOid": "d7d1f9b31c4839784ae61da8fa77a3827ef92e30",
+    "files": {
+      "edges": [
+        {
+          "node": {
+            "path": ".github/workflows/add-hip-number.yml",
+            "additions": 1,
+            "deletions": 1
+          }
+        },
+        {
+          "node": {
+            "path": ".github/workflows/schedule-last-call-date-end.yml",
+            "additions": 1,
+            "deletions": 1
+          }
+        },
+        {
+          "node": {
+            "path": ".github/workflows/update-draft-hips.yml",
+            "additions": 1,
+            "deletions": 1
+          }
+        }
+      ]
+    },
+    "author": {
+      "login": "dependabot"
+    }
+  },
+  {
     "title": "Update HIP-1046 with mirror node details",
     "number": 1203,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1203",
