@@ -63,7 +63,7 @@
     "title": "Update Terminology: Hiero Approves, Hedera Council Accepts",
     "number": 1201,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1201",
-    "headRefOid": "bc04c35b3b9b7b32a65d854939922e88e5d25dea",
+    "headRefOid": "6356bca83177aad9fbb950f8788374a51fb6b467",
     "files": {
       "edges": [
         {
@@ -221,7 +221,7 @@
     "title": "chore: Update MAINTAINERS.md - Update names and affiliations",
     "number": 1197,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1197",
-    "headRefOid": "98d7725aaa2991ab3352d228be3ae1bbfd484322",
+    "headRefOid": "14a4f4940aebef04b9e93c1b43bd39896a988831",
     "files": {
       "edges": [
         {
