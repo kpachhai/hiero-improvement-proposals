@@ -238,26 +238,6 @@
     }
   },
   {
-    "title": "Update hip-0000-template.md",
-    "number": 1196,
-    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1196",
-    "headRefOid": "fc7fa27a56d3ef4a37455ac43ec1baa518c1881e",
-    "files": {
-      "edges": [
-        {
-          "node": {
-            "path": "hip-0000-template.md",
-            "additions": 8,
-            "deletions": 2
-          }
-        }
-      ]
-    },
-    "author": {
-      "login": "Reccetech"
-    }
-  },
-  {
     "title": "HIP-1193 - Records to block streams cutover",
     "number": 1193,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1193",
