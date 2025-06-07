@@ -63,7 +63,7 @@
     "title": "Update Terminology: Hiero Approves, Hedera Council Accepts",
     "number": 1201,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1201",
-    "headRefOid": "6356bca83177aad9fbb950f8788374a51fb6b467",
+    "headRefOid": "bbf85f8f1336468e40ec4db0d94be6bbf7c1a2b6",
     "files": {
       "edges": [
         {
@@ -132,22 +132,22 @@
         {
           "node": {
             "path": "_data/statuses.yaml",
-            "additions": 6,
+            "additions": 7,
             "deletions": 7
           }
         },
         {
           "node": {
             "path": "_includes/hipstable.md",
-            "additions": 15,
+            "additions": 16,
             "deletions": 16
           }
         },
         {
           "node": {
             "path": "_layouts/hip.html",
-            "additions": 16,
-            "deletions": 16
+            "additions": 14,
+            "deletions": 31
           }
         },
         {
@@ -159,9 +159,37 @@
         },
         {
           "node": {
+            "path": "assets/hip-1/hip-states-ipa.png",
+            "additions": 0,
+            "deletions": 0
+          }
+        },
+        {
+          "node": {
+            "path": "assets/hip-1/hip-states-standards-track.png",
+            "additions": 0,
+            "deletions": 0
+          }
+        },
+        {
+          "node": {
             "path": "assets/hip-1/hip-states.png",
             "additions": 0,
             "deletions": 0
+          }
+        },
+        {
+          "node": {
+            "path": "assets/js/filter.js",
+            "additions": 11,
+            "deletions": 3
+          }
+        },
+        {
+          "node": {
+            "path": "assets/js/pr-integration.js",
+            "additions": 2,
+            "deletions": 2
           }
         },
         {
@@ -215,26 +243,6 @@
     },
     "author": {
       "login": "dependabot"
-    }
-  },
-  {
-    "title": "chore: Update MAINTAINERS.md - Update names and affiliations",
-    "number": 1197,
-    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1197",
-    "headRefOid": "14a4f4940aebef04b9e93c1b43bd39896a988831",
-    "files": {
-      "edges": [
-        {
-          "node": {
-            "path": "MAINTAINERS.md",
-            "additions": 6,
-            "deletions": 80
-          }
-        }
-      ]
-    },
-    "author": {
-      "login": "jwagantall"
     }
   },
   {
