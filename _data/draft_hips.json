@@ -1,5 +1,25 @@
 [
   {
+    "title": "chore: Refine hooks terminology and protobuf messages",
+    "number": 1216,
+    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1216",
+    "headRefOid": "de4c50904fcc667acfce363493b8385f907c6a6f",
+    "files": {
+      "edges": [
+        {
+          "node": {
+            "path": "HIP/hip-1195.md",
+            "additions": 344,
+            "deletions": 278
+          }
+        }
+      ]
+    },
+    "author": {
+      "login": "tinker-michaelj"
+    }
+  },
+  {
     "title": "Generalized scheduled contract call",
     "number": 1215,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1215",
@@ -57,26 +77,6 @@
     },
     "author": {
       "login": "walter-hernandez"
-    }
-  },
-  {
-    "title": "Update HIP-1046 with mirror node details",
-    "number": 1203,
-    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1203",
-    "headRefOid": "59d55f857a8f114a3fe5b2f8f3f5220c161ce031",
-    "files": {
-      "edges": [
-        {
-          "node": {
-            "path": "HIP/hip-1046.md",
-            "additions": 59,
-            "deletions": 11
-          }
-        }
-      ]
-    },
-    "author": {
-      "login": "steven-sheehy"
     }
   },
   {
@@ -452,13 +452,13 @@
     "title": "feat: Rollable and Fully Immutable Topic Ids",
     "number": 1139,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1139",
-    "headRefOid": "f92a217c6c03ee87f65d7459695e5268a8a7912a",
+    "headRefOid": "e9f3e92c4c728184bd243ec70b5d5708cbfb0027",
     "files": {
       "edges": [
         {
           "node": {
             "path": "HIP/hip-1139.md",
-            "additions": 182,
+            "additions": 193,
             "deletions": 0
           }
         }
