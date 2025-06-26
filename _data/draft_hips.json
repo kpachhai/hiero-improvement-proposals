@@ -163,7 +163,7 @@
     "title": "Update Terminology: Hiero Approves, Hedera Council Accepts",
     "number": 1201,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1201",
-    "headRefOid": "009b8befa7a7b893513f5dc0053ec1ecb99b3d55",
+    "headRefOid": "3688673c1bb630a22903ac9f0f4517dde09d53df",
     "files": {
       "edges": [
         {
@@ -316,22 +316,15 @@
         {
           "node": {
             "path": "assets/js/filter.js",
-            "additions": 30,
+            "additions": 31,
             "deletions": 34
           }
         },
         {
           "node": {
             "path": "assets/js/pr-integration.js",
-            "additions": 13,
-            "deletions": 7
-          }
-        },
-        {
-          "node": {
-            "path": "assets/js/tooltip.js",
-            "additions": 21,
-            "deletions": 18
+            "additions": 2,
+            "deletions": 2
           }
         },
         {
@@ -552,9 +545,51 @@
     "title": "Transaction Cleanup",
     "number": 1127,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1127",
-    "headRefOid": "9fc4ccc6fb26eb63cb7a8770d012ff89dd229f3f",
+    "headRefOid": "1c4e6141d07a9dfae24205ca3b90ffd4dc3ddbbd",
     "files": {
       "edges": [
+        {
+          "node": {
+            "path": ".github/workflows/add-hip-number.yml",
+            "additions": 2,
+            "deletions": 2
+          }
+        },
+        {
+          "node": {
+            "path": ".github/workflows/notifications.yml",
+            "additions": 1,
+            "deletions": 1
+          }
+        },
+        {
+          "node": {
+            "path": ".github/workflows/send-discord-message.yml",
+            "additions": 2,
+            "deletions": 2
+          }
+        },
+        {
+          "node": {
+            "path": ".github/workflows/send-email.yml",
+            "additions": 1,
+            "deletions": 1
+          }
+        },
+        {
+          "node": {
+            "path": ".github/workflows/update-draft-hips.yml",
+            "additions": 9,
+            "deletions": 33
+          }
+        },
+        {
+          "node": {
+            "path": ".github/workflows/validateHeaders.yml",
+            "additions": 2,
+            "deletions": 3
+          }
+        },
         {
           "node": {
             "path": "HIP/hip-1127.md",
@@ -565,8 +600,8 @@
         {
           "node": {
             "path": "_data/draft_hips.json",
-            "additions": 28,
-            "deletions": 0
+            "additions": 523,
+            "deletions": 344
           }
         }
       ]
