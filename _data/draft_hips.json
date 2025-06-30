@@ -1,5 +1,25 @@
 [
   {
+    "title": "Bump step-security/action-send-mail from 3.12.0 to 6.0.0",
+    "number": 1232,
+    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1232",
+    "headRefOid": "c2ab59e4a1959e880a95c50e4967d4f9e0873224",
+    "files": {
+      "edges": [
+        {
+          "node": {
+            "path": ".github/workflows/send-email.yml",
+            "additions": 1,
+            "deletions": 1
+          }
+        }
+      ]
+    },
+    "author": {
+      "login": "dependabot"
+    }
+  },
+  {
     "title": "Bump step-security/harden-runner from 2.12.1 to 2.12.2",
     "number": 1231,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1231",
@@ -474,26 +494,6 @@
     },
     "author": {
       "login": "tinker-michaelj"
-    }
-  },
-  {
-    "title": "Bump step-security/action-send-mail from 3.12.0 to 5.0.0",
-    "number": 1198,
-    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1198",
-    "headRefOid": "a6eb8237a6cac55875387988dc1b3e0910057f50",
-    "files": {
-      "edges": [
-        {
-          "node": {
-            "path": ".github/workflows/send-email.yml",
-            "additions": 1,
-            "deletions": 1
-          }
-        }
-      ]
-    },
-    "author": {
-      "login": "dependabot"
     }
   },
   {
