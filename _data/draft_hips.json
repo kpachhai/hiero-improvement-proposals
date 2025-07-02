@@ -1,25 +1,5 @@
 [
   {
-    "title": "chore: Update HIP-1064 with latest dynamic property names",
-    "number": 1233,
-    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1233",
-    "headRefOid": "02c14623f6df66bd69d80342a33d4e0bc15e9a8e",
-    "files": {
-      "edges": [
-        {
-          "node": {
-            "path": "HIP/hip-1064.md",
-            "additions": 4,
-            "deletions": 4
-          }
-        }
-      ]
-    },
-    "author": {
-      "login": "Neeharika-Sompalli"
-    }
-  },
-  {
     "title": "Bump step-security/action-send-mail from 3.12.0 to 6.0.0",
     "number": 1232,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1232",
