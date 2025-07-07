@@ -116,70 +116,10 @@
     }
   },
   {
-    "title": "Redo transaction cleanup hip",
-    "number": 1228,
-    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1228",
-    "headRefOid": "ec316da705e9eec7c63d2d1b812058f774a6a54b",
-    "files": {
-      "edges": [
-        {
-          "node": {
-            "path": "HIP/hip-1127.md",
-            "additions": 152,
-            "deletions": 0
-          }
-        }
-      ]
-    },
-    "author": {
-      "login": "mgarbs"
-    }
-  },
-  {
-    "title": "Update hip-1086.md to Final",
-    "number": 1227,
-    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1227",
-    "headRefOid": "b1b0be67d8d5ba3ab71d021e7cd4564d1140ad38",
-    "files": {
-      "edges": [
-        {
-          "node": {
-            "path": "HIP/hip-1086.md",
-            "additions": 3,
-            "deletions": 2
-          }
-        }
-      ]
-    },
-    "author": {
-      "login": "mgarbs"
-    }
-  },
-  {
-    "title": "Update hip-1084.md to Final",
-    "number": 1226,
-    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1226",
-    "headRefOid": "18fb78aa41945c2d076ec0e54717de3e561486a8",
-    "files": {
-      "edges": [
-        {
-          "node": {
-            "path": "HIP/hip-1084.md",
-            "additions": 3,
-            "deletions": 2
-          }
-        }
-      ]
-    },
-    "author": {
-      "login": "mgarbs"
-    }
-  },
-  {
     "title": "feat(HIP): Increase CryptoCreate Throttle to 20,000 milliOpsPerSec",
     "number": 1225,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1225",
-    "headRefOid": "67d58aa5ffdf43346c26d4461d72f20aa33a137e",
+    "headRefOid": "ac66abbc8895525757bc3170c216f4ce8c454e98",
     "files": {
       "edges": [
         {
@@ -233,26 +173,6 @@
     },
     "author": {
       "login": "walter-hernandez"
-    }
-  },
-  {
-    "title": "Update hip-1021.md to Final",
-    "number": 1202,
-    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1202",
-    "headRefOid": "46bfac7ea69c856886ca9289486e76c88b8f438b",
-    "files": {
-      "edges": [
-        {
-          "node": {
-            "path": "HIP/hip-1021.md",
-            "additions": 3,
-            "deletions": 2
-          }
-        }
-      ]
-    },
-    "author": {
-      "login": "mgarbs"
     }
   },
   {
@@ -661,13 +581,13 @@
     "title": "Block Node",
     "number": 1081,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1081",
-    "headRefOid": "69186469e7fbd7b7bfa625a0153ace3bdbdf33d1",
+    "headRefOid": "7eb9f69e2f3236ac0e65ef796e7a117245fae828",
     "files": {
       "edges": [
         {
           "node": {
             "path": "HIP/hip-1081.md",
-            "additions": 839,
+            "additions": 837,
             "deletions": 0
           }
         },
