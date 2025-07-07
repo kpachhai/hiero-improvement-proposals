@@ -581,13 +581,13 @@
     "title": "Block Node",
     "number": 1081,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1081",
-    "headRefOid": "7eb9f69e2f3236ac0e65ef796e7a117245fae828",
+    "headRefOid": "927bc48ff45740c7f426416cf25ce9df8f4b3a44",
     "files": {
       "edges": [
         {
           "node": {
             "path": "HIP/hip-1081.md",
-            "additions": 837,
+            "additions": 870,
             "deletions": 0
           }
         },
