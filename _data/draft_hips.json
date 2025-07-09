@@ -538,26 +538,6 @@
     }
   },
   {
-    "title": "feat: Rollable and Fully Immutable Topic Ids",
-    "number": 1139,
-    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1139",
-    "headRefOid": "7e7839f24119156eddc36d019c0c02f763f102d6",
-    "files": {
-      "edges": [
-        {
-          "node": {
-            "path": "HIP/hip-1139.md",
-            "additions": 196,
-            "deletions": 0
-          }
-        }
-      ]
-    },
-    "author": {
-      "login": "kantorcodes"
-    }
-  },
-  {
     "title": "HIP-1137: Block Node Discoverability",
     "number": 1137,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1137",
