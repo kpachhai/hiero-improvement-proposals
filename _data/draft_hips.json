@@ -541,13 +541,13 @@
     "title": "feat: Rollable and Fully Immutable Topic Ids",
     "number": 1139,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1139",
-    "headRefOid": "e9f3e92c4c728184bd243ec70b5d5708cbfb0027",
+    "headRefOid": "5eab9cf79eccf6d3646fefc4e23ebd5a28deb5eb",
     "files": {
       "edges": [
         {
           "node": {
             "path": "HIP/hip-1139.md",
-            "additions": 193,
+            "additions": 195,
             "deletions": 0
           }
         }
