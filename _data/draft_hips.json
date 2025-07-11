@@ -1,5 +1,25 @@
 [
   {
+    "title": "chore: TAC requirement - Update README.md",
+    "number": 1237,
+    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1237",
+    "headRefOid": "5e4f89480794982dd1edf923927f09ba40ed5f26",
+    "files": {
+      "edges": [
+        {
+          "node": {
+            "path": "README.md",
+            "additions": 3,
+            "deletions": 0
+          }
+        }
+      ]
+    },
+    "author": {
+      "login": "jwagantall"
+    }
+  },
+  {
     "title": "Update hip-1217.md to Active",
     "number": 1236,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1236",
