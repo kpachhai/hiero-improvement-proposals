@@ -1,22 +1,22 @@
 [
   {
-    "title": "chore: TAC requirement - Update README.md",
-    "number": 1237,
-    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1237",
-    "headRefOid": "5e4f89480794982dd1edf923927f09ba40ed5f26",
+    "title": "Quiescence HIP",
+    "number": 1238,
+    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1238",
+    "headRefOid": "b9d8b9fadbcdc6b7e4f5acc0ded4d34f17bd0429",
     "files": {
       "edges": [
         {
           "node": {
-            "path": "README.md",
-            "additions": 3,
+            "path": "HIP/hip-xxxx-quiescence.md",
+            "additions": 209,
             "deletions": 0
           }
         }
       ]
     },
     "author": {
-      "login": "jwagantall"
+      "login": "lpetrovic05"
     }
   },
   {
