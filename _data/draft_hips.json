@@ -1,15 +1,116 @@
 [
   {
+    "title": "chore: Fix HIP-1215 system contract return values",
+    "number": 1242,
+    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1242",
+    "headRefOid": "434ccd46ee3198c2ed49eab210ef255416d1b7b9",
+    "files": {
+      "edges": [
+        {
+          "node": {
+            "path": "HIP/hip-1215.md",
+            "additions": 14,
+            "deletions": 8
+          }
+        }
+      ]
+    },
+    "author": {
+      "login": "tinker-michaelj"
+    }
+  },
+  {
+    "title": "chore: Add `IHieroAccountAllowancePrePostHook` variant",
+    "number": 1241,
+    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1241",
+    "headRefOid": "0a10de1ca0283acd5160dae5d8c3879f055833a8",
+    "files": {
+      "edges": [
+        {
+          "node": {
+            "path": "HIP/hip-1195.md",
+            "additions": 96,
+            "deletions": 11
+          }
+        }
+      ]
+    },
+    "author": {
+      "login": "tinker-michaelj"
+    }
+  },
+  {
+    "title": "HIP 1056 Amendment",
+    "number": 1240,
+    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1240",
+    "headRefOid": "5eaaaa0b8c5d9f144739178f8084aece6748e042",
+    "files": {
+      "edges": [
+        {
+          "node": {
+            "path": "HIP/hip-1056.md",
+            "additions": 111,
+            "deletions": 75
+          }
+        },
+        {
+          "node": {
+            "path": "assets/hip-1056/block-stream-merkle.svg",
+            "additions": 1,
+            "deletions": 1
+          }
+        },
+        {
+          "node": {
+            "path": "assets/hip-1056/protobuf/stream/block_item.proto",
+            "additions": 30,
+            "deletions": 19
+          }
+        },
+        {
+          "node": {
+            "path": "assets/hip-1056/root-hashes.svg",
+            "additions": 1,
+            "deletions": 1
+          }
+        }
+      ]
+    },
+    "author": {
+      "login": "jsync-swirlds"
+    }
+  },
+  {
+    "title": "chore: Add failure status details for token type/transfer spec mismatches",
+    "number": 1239,
+    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1239",
+    "headRefOid": "58f5fb36af16c322e7c3ad04f70ab0a0ca73e3a4",
+    "files": {
+      "edges": [
+        {
+          "node": {
+            "path": "HIP/hip-17.md",
+            "additions": 2,
+            "deletions": 0
+          }
+        }
+      ]
+    },
+    "author": {
+      "login": "tinker-michaelj"
+    }
+  },
+  {
     "title": "Quiescence HIP",
     "number": 1238,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1238",
-    "headRefOid": "ce388dac572acba428a9497dff90d5cf313f4d81",
+    "headRefOid": "1d75c8f1c745afd785ef66b7066e89af211b44d6",
     "files": {
       "edges": [
         {
           "node": {
             "path": "HIP/hip-1238.md",
-            "additions": 209,
+            "additions": 206,
             "deletions": 0
           }
         }
@@ -621,13 +722,13 @@
     "title": "Block Node",
     "number": 1081,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1081",
-    "headRefOid": "236154a336bb4c8f0ac45ef98c8f4819486cd026",
+    "headRefOid": "c120c3abdc51f25cbe0ab8993327077c25ac6864",
     "files": {
       "edges": [
         {
           "node": {
             "path": "HIP/hip-1081.md",
-            "additions": 890,
+            "additions": 922,
             "deletions": 0
           }
         },
