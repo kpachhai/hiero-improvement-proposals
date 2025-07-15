@@ -43,14 +43,14 @@
     "title": "chore: Fix HIP-1215 system contract return values",
     "number": 1242,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1242",
-    "headRefOid": "ddfeed99378f51da55daede078ab1c98dfe29207",
+    "headRefOid": "c8ba5daf5848d195c2cf3d37a5b5ed38ecc9f424",
     "files": {
       "edges": [
         {
           "node": {
             "path": "HIP/hip-1215.md",
-            "additions": 36,
-            "deletions": 17
+            "additions": 37,
+            "deletions": 18
           }
         }
       ]
@@ -144,7 +144,7 @@
     "title": "Quiescence HIP",
     "number": 1238,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1238",
-    "headRefOid": "5e0b90be522b599c70ef461ded31554c2ee5aa22",
+    "headRefOid": "08d2f55f8579822bcdd5222475167e5ec165e43e",
     "files": {
       "edges": [
         {
