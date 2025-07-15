@@ -43,14 +43,14 @@
     "title": "chore: Fix HIP-1215 system contract return values",
     "number": 1242,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1242",
-    "headRefOid": "d1aa75d58194f1e1ff9e1fd84ce201282c0f9f4b",
+    "headRefOid": "ddfeed99378f51da55daede078ab1c98dfe29207",
     "files": {
       "edges": [
         {
           "node": {
             "path": "HIP/hip-1215.md",
-            "additions": 15,
-            "deletions": 9
+            "additions": 36,
+            "deletions": 17
           }
         }
       ]
