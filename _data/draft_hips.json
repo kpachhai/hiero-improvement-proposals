@@ -1,5 +1,25 @@
 [
   {
+    "title": "Update HIP-1139 to clarify the submit key update",
+    "number": 1247,
+    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1247",
+    "headRefOid": "6151db33bcab0a59899e0e4614e77ce658b76be8",
+    "files": {
+      "edges": [
+        {
+          "node": {
+            "path": "HIP/hip-1139.md",
+            "additions": 2,
+            "deletions": 3
+          }
+        }
+      ]
+    },
+    "author": {
+      "login": "vtronkov"
+    }
+  },
+  {
     "title": "Update hip-1081.md to update headers",
     "number": 1246,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1246",
@@ -83,13 +103,13 @@
     "title": "HIP 1056 Amendment",
     "number": 1240,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1240",
-    "headRefOid": "5eaaaa0b8c5d9f144739178f8084aece6748e042",
+    "headRefOid": "2267dd0958384cfe92c7cce61c06a43b8304f39c",
     "files": {
       "edges": [
         {
           "node": {
             "path": "HIP/hip-1056.md",
-            "additions": 111,
+            "additions": 147,
             "deletions": 75
           }
         },
@@ -103,7 +123,7 @@
         {
           "node": {
             "path": "assets/hip-1056/protobuf/stream/block_item.proto",
-            "additions": 30,
+            "additions": 32,
             "deletions": 19
           }
         },
