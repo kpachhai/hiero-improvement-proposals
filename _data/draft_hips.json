@@ -3,7 +3,7 @@
     "title": "Update HIP-1139 to clarify the submit key update",
     "number": 1247,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1247",
-    "headRefOid": "80a9735ab02a1e62321951c37b22c205bf1d7c38",
+    "headRefOid": "6314d8ffc0b5497cc00f9d2eaef5789563af63a8",
     "files": {
       "edges": [
         {
@@ -17,46 +17,6 @@
     },
     "author": {
       "login": "vtronkov"
-    }
-  },
-  {
-    "title": "Update hip-1081.md to update headers",
-    "number": 1246,
-    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1246",
-    "headRefOid": "e05327e5cb962c3d8e6c4272792d69a7e539b6bd",
-    "files": {
-      "edges": [
-        {
-          "node": {
-            "path": "HIP/hip-1081.md",
-            "additions": 2,
-            "deletions": 1
-          }
-        }
-      ]
-    },
-    "author": {
-      "login": "mgarbs"
-    }
-  },
-  {
-    "title": "Update hip-1217.md to Active",
-    "number": 1245,
-    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1245",
-    "headRefOid": "f24e413eebb81883ea0fd9c723ddfeb74dd918e9",
-    "files": {
-      "edges": [
-        {
-          "node": {
-            "path": "HIP/hip-1217.md",
-            "additions": 2,
-            "deletions": 2
-          }
-        }
-      ]
-    },
-    "author": {
-      "login": "mgarbs"
     }
   },
   {
@@ -77,67 +37,6 @@
     },
     "author": {
       "login": "tinker-michaelj"
-    }
-  },
-  {
-    "title": "chore: Add `IHieroAccountAllowancePrePostHook` variant",
-    "number": 1241,
-    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1241",
-    "headRefOid": "0a10de1ca0283acd5160dae5d8c3879f055833a8",
-    "files": {
-      "edges": [
-        {
-          "node": {
-            "path": "HIP/hip-1195.md",
-            "additions": 96,
-            "deletions": 11
-          }
-        }
-      ]
-    },
-    "author": {
-      "login": "tinker-michaelj"
-    }
-  },
-  {
-    "title": "HIP 1056 Amendment",
-    "number": 1240,
-    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1240",
-    "headRefOid": "2267dd0958384cfe92c7cce61c06a43b8304f39c",
-    "files": {
-      "edges": [
-        {
-          "node": {
-            "path": "HIP/hip-1056.md",
-            "additions": 147,
-            "deletions": 75
-          }
-        },
-        {
-          "node": {
-            "path": "assets/hip-1056/block-stream-merkle.svg",
-            "additions": 1,
-            "deletions": 1
-          }
-        },
-        {
-          "node": {
-            "path": "assets/hip-1056/protobuf/stream/block_item.proto",
-            "additions": 32,
-            "deletions": 19
-          }
-        },
-        {
-          "node": {
-            "path": "assets/hip-1056/root-hashes.svg",
-            "additions": 1,
-            "deletions": 1
-          }
-        }
-      ]
-    },
-    "author": {
-      "login": "jsync-swirlds"
     }
   },
   {
@@ -201,26 +100,6 @@
     }
   },
   {
-    "title": "chore: Update HIP-1127 with review comments",
-    "number": 1235,
-    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1235",
-    "headRefOid": "d0d9c9bd53b245731140c86d9152b196eef42a71",
-    "files": {
-      "edges": [
-        {
-          "node": {
-            "path": "HIP/hip-1127.md",
-            "additions": 33,
-            "deletions": 17
-          }
-        }
-      ]
-    },
-    "author": {
-      "login": "tinker-michaelj"
-    }
-  },
-  {
     "title": "Bump step-security/action-send-mail from 3.12.0 to 6.0.0",
     "number": 1232,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1232",
@@ -230,68 +109,6 @@
         {
           "node": {
             "path": ".github/workflows/send-email.yml",
-            "additions": 1,
-            "deletions": 1
-          }
-        }
-      ]
-    },
-    "author": {
-      "login": "dependabot"
-    }
-  },
-  {
-    "title": "Bump step-security/harden-runner from 2.12.1 to 2.12.2",
-    "number": 1231,
-    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1231",
-    "headRefOid": "d7ea57f55e8b6546844775e65111b210a3b8728b",
-    "files": {
-      "edges": [
-        {
-          "node": {
-            "path": ".github/workflows/add-hip-number.yml",
-            "additions": 1,
-            "deletions": 1
-          }
-        },
-        {
-          "node": {
-            "path": ".github/workflows/notifications.yml",
-            "additions": 1,
-            "deletions": 1
-          }
-        },
-        {
-          "node": {
-            "path": ".github/workflows/schedule-last-call-date-end.yml",
-            "additions": 1,
-            "deletions": 1
-          }
-        },
-        {
-          "node": {
-            "path": ".github/workflows/send-discord-message.yml",
-            "additions": 1,
-            "deletions": 1
-          }
-        },
-        {
-          "node": {
-            "path": ".github/workflows/send-email.yml",
-            "additions": 1,
-            "deletions": 1
-          }
-        },
-        {
-          "node": {
-            "path": ".github/workflows/update-draft-hips.yml",
-            "additions": 1,
-            "deletions": 1
-          }
-        },
-        {
-          "node": {
-            "path": ".github/workflows/validateHeaders.yml",
             "additions": 1,
             "deletions": 1
           }
