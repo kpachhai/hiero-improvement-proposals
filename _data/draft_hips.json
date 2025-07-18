@@ -103,27 +103,34 @@
     "title": "chore: Update Contract Service output and trace specification",
     "number": 1229,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1229",
-    "headRefOid": "9ed5756a404040c8d8f77208737bf2294ff5ee81",
+    "headRefOid": "b5021e5bc88d2e45714cdef12f016407ae611a1f",
     "files": {
       "edges": [
         {
           "node": {
             "path": "HIP/hip-1056.md",
-            "additions": 181,
-            "deletions": 88
+            "additions": 186,
+            "deletions": 98
+          }
+        },
+        {
+          "node": {
+            "path": "assets/hip-1056/protobuf/services/contract_types.proto",
+            "additions": 80,
+            "deletions": 0
           }
         },
         {
           "node": {
             "path": "assets/hip-1056/protobuf/stream/output/smart_contract_service.proto",
-            "additions": 117,
-            "deletions": 205
+            "additions": 39,
+            "deletions": 204
           }
         },
         {
           "node": {
             "path": "assets/hip-1056/protobuf/stream/trace/smart_contract_service.proto",
-            "additions": 196,
+            "additions": 210,
             "deletions": 0
           }
         }
@@ -378,13 +385,13 @@
     "title": "The hinTS threshold signature scheme",
     "number": 1200,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1200",
-    "headRefOid": "90446747aa47d42a27b5c47c4e710bf6d91ae879",
+    "headRefOid": "354c22ff5e4fa27acf31405e98cfe531a213e2ea",
     "files": {
       "edges": [
         {
           "node": {
             "path": "HIP/hip-1200.md",
-            "additions": 478,
+            "additions": 381,
             "deletions": 0
           }
         }
