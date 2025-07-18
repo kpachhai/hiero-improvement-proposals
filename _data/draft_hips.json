@@ -1,25 +1,5 @@
 [
   {
-    "title": "Update HIP-1139 to clarify the submit key update",
-    "number": 1247,
-    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1247",
-    "headRefOid": "6314d8ffc0b5497cc00f9d2eaef5789563af63a8",
-    "files": {
-      "edges": [
-        {
-          "node": {
-            "path": "HIP/hip-1139.md",
-            "additions": 2,
-            "deletions": 3
-          }
-        }
-      ]
-    },
-    "author": {
-      "login": "vtronkov"
-    }
-  },
-  {
     "title": "chore: Fix HIP-1215 system contract return values",
     "number": 1242,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1242",
