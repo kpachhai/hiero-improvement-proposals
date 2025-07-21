@@ -43,13 +43,13 @@
     "title": "Quiescence HIP",
     "number": 1238,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1238",
-    "headRefOid": "eb9209c64ea01d59a519d07b1729ae18ab4f899f",
+    "headRefOid": "eaf9c33a2724f9759652fb4f822b3abf7d83247a",
     "files": {
       "edges": [
         {
           "node": {
             "path": "HIP/hip-1238.md",
-            "additions": 219,
+            "additions": 215,
             "deletions": 0
           }
         }
