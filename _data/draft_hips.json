@@ -20,26 +20,6 @@
     }
   },
   {
-    "title": "chore: Add failure status details for token type/transfer spec mismatches",
-    "number": 1239,
-    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1239",
-    "headRefOid": "58f5fb36af16c322e7c3ad04f70ab0a0ca73e3a4",
-    "files": {
-      "edges": [
-        {
-          "node": {
-            "path": "HIP/hip-17.md",
-            "additions": 2,
-            "deletions": 0
-          }
-        }
-      ]
-    },
-    "author": {
-      "login": "tinker-michaelj"
-    }
-  },
-  {
     "title": "Quiescence HIP",
     "number": 1238,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1238",
