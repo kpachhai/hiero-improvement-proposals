@@ -1,5 +1,45 @@
 [
   {
+    "title": "Create HIP for Precise Smart Contract Throttling.",
+    "number": 1249,
+    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1249",
+    "headRefOid": "aba44816c99208db0d13a807ccd6c6533e2bacfe",
+    "files": {
+      "edges": [
+        {
+          "node": {
+            "path": "HIP/hip-1249.md",
+            "additions": 190,
+            "deletions": 0
+          }
+        }
+      ]
+    },
+    "author": {
+      "login": "rbair23"
+    }
+  },
+  {
+    "title": "chore: Fix HIP-1215 typo",
+    "number": 1248,
+    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1248",
+    "headRefOid": "81daaebb4b97c4f607da70cf6a0328942f130050",
+    "files": {
+      "edges": [
+        {
+          "node": {
+            "path": "HIP/hip-1215.md",
+            "additions": 2,
+            "deletions": 2
+          }
+        }
+      ]
+    },
+    "author": {
+      "login": "tinker-michaelj"
+    }
+  },
+  {
     "title": "Quiescence HIP",
     "number": 1238,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1238",
@@ -63,20 +103,20 @@
     "title": "chore: Update Contract Service output and trace specification",
     "number": 1229,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1229",
-    "headRefOid": "b5021e5bc88d2e45714cdef12f016407ae611a1f",
+    "headRefOid": "4a56515ddc0b20d231a82822d521268e46ed0fff",
     "files": {
       "edges": [
         {
           "node": {
             "path": "HIP/hip-1056.md",
-            "additions": 186,
-            "deletions": 98
+            "additions": 203,
+            "deletions": 99
           }
         },
         {
           "node": {
             "path": "assets/hip-1056/protobuf/services/contract_types.proto",
-            "additions": 80,
+            "additions": 83,
             "deletions": 0
           }
         },
@@ -164,7 +204,7 @@
     "title": "Update Terminology: Hiero Approves, Hedera Council Accepts",
     "number": 1201,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1201",
-    "headRefOid": "b2933c3d4bfdaa69cd4546d75ca360ce941e3072",
+    "headRefOid": "e0599bcd2a170e448882e84d6e6f352bf99286d3",
     "files": {
       "edges": [
         {
@@ -177,7 +217,7 @@
         {
           "node": {
             "path": "HIP/hip-1.md",
-            "additions": 71,
+            "additions": 70,
             "deletions": 58
           }
         },
