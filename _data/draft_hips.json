@@ -20,26 +20,6 @@
     }
   },
   {
-    "title": "chore: Fix HIP-1215 typo",
-    "number": 1248,
-    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1248",
-    "headRefOid": "81daaebb4b97c4f607da70cf6a0328942f130050",
-    "files": {
-      "edges": [
-        {
-          "node": {
-            "path": "HIP/hip-1215.md",
-            "additions": 2,
-            "deletions": 2
-          }
-        }
-      ]
-    },
-    "author": {
-      "login": "tinker-michaelj"
-    }
-  },
-  {
     "title": "Quiescence HIP",
     "number": 1238,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1238",
