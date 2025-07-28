@@ -3,13 +3,13 @@
     "title": "Create HIP for Precise Smart Contract Throttling.",
     "number": 1249,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1249",
-    "headRefOid": "aba44816c99208db0d13a807ccd6c6533e2bacfe",
+    "headRefOid": "6dfb2dc38a065fc0129f1842d2cb9fbaad7134b1",
     "files": {
       "edges": [
         {
           "node": {
             "path": "HIP/hip-1249.md",
-            "additions": 190,
+            "additions": 200,
             "deletions": 0
           }
         }
@@ -103,13 +103,13 @@
     "title": "chore: Update Contract Service output and trace specification",
     "number": 1229,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1229",
-    "headRefOid": "4a56515ddc0b20d231a82822d521268e46ed0fff",
+    "headRefOid": "c002986d030afec449831ec96799fc339516e843",
     "files": {
       "edges": [
         {
           "node": {
             "path": "HIP/hip-1056.md",
-            "additions": 203,
+            "additions": 205,
             "deletions": 99
           }
         },
@@ -130,7 +130,7 @@
         {
           "node": {
             "path": "assets/hip-1056/protobuf/stream/trace/smart_contract_service.proto",
-            "additions": 210,
+            "additions": 212,
             "deletions": 0
           }
         }
