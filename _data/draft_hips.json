@@ -40,26 +40,6 @@
     }
   },
   {
-    "title": "Update hip-1217.md to Active",
-    "number": 1236,
-    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1236",
-    "headRefOid": "60dd73f6b01ca1cd0b08459d185d408c6bd02bf6",
-    "files": {
-      "edges": [
-        {
-          "node": {
-            "path": "HIP/hip-1217.md",
-            "additions": 1,
-            "deletions": 1
-          }
-        }
-      ]
-    },
-    "author": {
-      "login": "mgarbs"
-    }
-  },
-  {
     "title": "Bump step-security/action-send-mail from 3.12.0 to 6.0.0",
     "number": 1232,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1232",
