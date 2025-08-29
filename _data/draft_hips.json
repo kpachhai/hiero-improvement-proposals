@@ -24,14 +24,70 @@
     "title": "HIP-1264: Dollar-denominated values",
     "number": 1264,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1264",
-    "headRefOid": "4255aeb3ad79f1b73fc682f2adc7b614ad0ed009",
+    "headRefOid": "4a3bfb49fed1e04be1208d9754a2f012d8569534",
     "files": {
       "edges": [
         {
           "node": {
             "path": "HIP/hip-1264.md",
             "changeType": "ADDED",
-            "additions": 280,
+            "additions": 286,
+            "deletions": 0
+          }
+        },
+        {
+          "node": {
+            "path": "assets/hip-1264/contrib/chart.umd.min.js",
+            "changeType": "ADDED",
+            "additions": 14,
+            "deletions": 0
+          }
+        },
+        {
+          "node": {
+            "path": "assets/hip-1264/contrib/chartjs-adapter-date-fns.bundle.min.js",
+            "changeType": "ADDED",
+            "additions": 7,
+            "deletions": 0
+          }
+        },
+        {
+          "node": {
+            "path": "assets/hip-1264/contrib/chartjs-plugin-annotation.min.js",
+            "changeType": "ADDED",
+            "additions": 7,
+            "deletions": 0
+          }
+        },
+        {
+          "node": {
+            "path": "assets/hip-1264/contrib/chartjs-plugin-zoom.min.js",
+            "changeType": "ADDED",
+            "additions": 7,
+            "deletions": 0
+          }
+        },
+        {
+          "node": {
+            "path": "assets/hip-1264/contrib/pako.min.js",
+            "changeType": "ADDED",
+            "additions": 2,
+            "deletions": 0
+          }
+        },
+        {
+          "node": {
+            "path": "assets/hip-1264/index.css",
+            "changeType": "ADDED",
+            "additions": 576,
+            "deletions": 0
+          }
+        },
+        {
+          "node": {
+            "path": "assets/hip-1264/index.html",
+            "changeType": "ADDED",
+            "additions": 1033,
             "deletions": 0
           }
         }
