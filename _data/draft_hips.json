@@ -172,14 +172,14 @@
     "title": "HIP-1200: The hinTS threshold signature scheme",
     "number": 1200,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1200",
-    "headRefOid": "c09da306009953cbfd217e430696282c6fba0f5d",
+    "headRefOid": "38cc2d3d88cf76e1cf813c7485dc38f0c742dce9",
     "files": {
       "edges": [
         {
           "node": {
             "path": "HIP/hip-1200.md",
             "changeType": "ADDED",
-            "additions": 390,
+            "additions": 398,
             "deletions": 0
           }
         }
