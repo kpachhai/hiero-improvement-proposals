@@ -101,14 +101,14 @@
     "title": "HIP-1261: Simple fees",
     "number": 1261,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1261",
-    "headRefOid": "6fec381fddae953af826a7277b8a0dd71bdf34d1",
+    "headRefOid": "a0816a7f580935c5a60562a55f532a5f7ce9b4d6",
     "files": {
       "edges": [
         {
           "node": {
             "path": "HIP/hip-1261.md",
             "changeType": "ADDED",
-            "additions": 854,
+            "additions": 853,
             "deletions": 0
           }
         },
