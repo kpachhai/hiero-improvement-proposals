@@ -3,14 +3,14 @@
     "title": "HIP - 1300 - Increased txn size max for governance accounts",
     "number": 1300,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1300",
-    "headRefOid": "5b88899440e7e0361ebf93512be763c337321eac",
+    "headRefOid": "c0f9c14c5caa052e957c61dbc9477a703397201a",
     "files": {
       "edges": [
         {
           "node": {
             "path": "HIP/hip-1300.md",
             "changeType": "ADDED",
-            "additions": 122,
+            "additions": 120,
             "deletions": 0
           }
         }
