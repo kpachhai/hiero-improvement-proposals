@@ -3,14 +3,14 @@
     "title": "HIP - 1300 - Increased txn size max for governance accounts",
     "number": 1300,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1300",
-    "headRefOid": "c0f9c14c5caa052e957c61dbc9477a703397201a",
+    "headRefOid": "91d9443abe4ee823b27edbcc1e91be3adb224520",
     "files": {
       "edges": [
         {
           "node": {
             "path": "HIP/hip-1300.md",
             "changeType": "ADDED",
-            "additions": 120,
+            "additions": 122,
             "deletions": 0
           }
         }
@@ -24,14 +24,14 @@
     "title": "HIP-1299 `account_id` updates for Address Book Node Entries.",
     "number": 1299,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1299",
-    "headRefOid": "848a68c1e6333447de055700aafd6b802d1e0bc8",
+    "headRefOid": "3bf8d4bf7e111449356a48ed7803d8247af94b2b",
     "files": {
       "edges": [
         {
           "node": {
             "path": "HIP/hip-1299.md",
             "changeType": "ADDED",
-            "additions": 207,
+            "additions": 199,
             "deletions": 0
           }
         }
