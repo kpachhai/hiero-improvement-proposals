@@ -266,27 +266,6 @@
     }
   },
   {
-    "title": "Allow Setting of EVM Address by EOA",
-    "number": 1082,
-    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1082",
-    "headRefOid": "486b234f79348769390537845ada0e8f659f2866",
-    "files": {
-      "edges": [
-        {
-          "node": {
-            "path": "HIP/hip-1082.md",
-            "changeType": "ADDED",
-            "additions": 248,
-            "deletions": 0
-          }
-        }
-      ]
-    },
-    "author": {
-      "login": "Nana-EC"
-    }
-  },
-  {
     "title": "Sponsored Fees",
     "number": 1068,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1068",
