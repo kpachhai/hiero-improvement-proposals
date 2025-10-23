@@ -21,27 +21,6 @@
     }
   },
   {
-    "title": "Create hip-0000-hiero-anoncreds-method.md",
-    "number": 1292,
-    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1292",
-    "headRefOid": "1a0492a04a316ae8251578e1a8945b439b62f304",
-    "files": {
-      "edges": [
-        {
-          "node": {
-            "path": "HIP/hip-0000-hiero-anoncreds-method.md",
-            "changeType": "ADDED",
-            "additions": 95,
-            "deletions": 0
-          }
-        }
-      ]
-    },
-    "author": {
-      "login": "Reccetech"
-    }
-  },
-  {
     "title": "feat: add entity hip",
     "number": 1272,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1272",
@@ -308,27 +287,6 @@
     }
   },
   {
-    "title": "Enable Threshold (1-of-N) Support in HTS  Precompile",
-    "number": 1069,
-    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1069",
-    "headRefOid": "6ed5e2ebac8476430e42edb00b0fb244198f2fcf",
-    "files": {
-      "edges": [
-        {
-          "node": {
-            "path": "HIP/hip-1069.md",
-            "changeType": "ADDED",
-            "additions": 152,
-            "deletions": 0
-          }
-        }
-      ]
-    },
-    "author": {
-      "login": "mgarbs"
-    }
-  },
-  {
     "title": "Sponsored Fees",
     "number": 1068,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1068",
@@ -355,77 +313,6 @@
     },
     "author": {
       "login": "Nana-EC"
-    }
-  },
-  {
-    "title": "Extend isAuthorized to process current transaction in HAS System Contract",
-    "number": 792,
-    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/792",
-    "headRefOid": "8324ccf1258a89ac309accde50868b13373c8e8a",
-    "files": {
-      "edges": [
-        {
-          "node": {
-            "path": "HIP/hip-792.md",
-            "changeType": "ADDED",
-            "additions": 291,
-            "deletions": 0
-          }
-        }
-      ]
-    },
-    "author": {
-      "login": "bguiz"
-    }
-  },
-  {
-    "title": "Support Fractional NFTs on HTS for ESG ",
-    "number": 543,
-    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/543",
-    "headRefOid": "86eb0b70850b953760dbc22d214d5842f310f892",
-    "files": {
-      "edges": [
-        {
-          "node": {
-            "path": "HIP/hip-0000-fractional-nfts.md",
-            "changeType": "ADDED",
-            "additions": 191,
-            "deletions": 0
-          }
-        },
-        {
-          "node": {
-            "path": "hip-0000-template.md",
-            "changeType": "MODIFIED",
-            "additions": 1,
-            "deletions": 1
-          }
-        }
-      ]
-    },
-    "author": {
-      "login": "mattsmithies"
-    }
-  },
-  {
-    "title": "Recreate Buyable Tokens PR",
-    "number": 498,
-    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/498",
-    "headRefOid": "6a3f72a8836e9355854bf9a36f24fcc030909981",
-    "files": {
-      "edges": [
-        {
-          "node": {
-            "path": "HIP/hip-498.md",
-            "changeType": "ADDED",
-            "additions": 125,
-            "deletions": 0
-          }
-        }
-      ]
-    },
-    "author": {
-      "login": "cijujohn"
     }
   }
 ]
