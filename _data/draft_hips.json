@@ -1,5 +1,26 @@
 [
   {
+    "title": " An `ExtendedAssetChanges` extra for large atomic swaps",
+    "number": 1331,
+    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1331",
+    "headRefOid": "2f1e7aea522a42679f246f3839795e324594fa9a",
+    "files": {
+      "edges": [
+        {
+          "node": {
+            "path": "HIP/hip-extended-xfers.md",
+            "changeType": "ADDED",
+            "additions": 225,
+            "deletions": 0
+          }
+        }
+      ]
+    },
+    "author": {
+      "login": "tinker-michaelj"
+    }
+  },
+  {
     "title": "HIP-1313: Enable a new high volume entity creation option",
     "number": 1313,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1313",
