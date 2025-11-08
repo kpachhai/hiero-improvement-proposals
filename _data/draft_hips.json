@@ -1,71 +1,29 @@
 [
   {
-    "title": " An `ExtendedAssetChanges` extra for large atomic swaps",
-    "number": 1331,
-    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1331",
-    "headRefOid": "2f1e7aea522a42679f246f3839795e324594fa9a",
+    "title": "HIP-XXXX: Private Message Box Standard for Hiero Accounts",
+    "number": 1334,
+    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1334",
+    "headRefOid": "74f4a5e96ff497a1feb2260ded6764239339af71",
     "files": {
       "edges": [
         {
           "node": {
-            "path": "HIP/hip-extended-xfers.md",
+            "path": "HIP/hip-xxxx.md",
             "changeType": "ADDED",
-            "additions": 225,
+            "additions": 849,
             "deletions": 0
           }
         }
       ]
     },
     "author": {
-      "login": "tinker-michaelj"
-    }
-  },
-  {
-    "title": "HIP-1313: Enable a new high volume entity creation option",
-    "number": 1313,
-    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1313",
-    "headRefOid": "f7e058123eb3557148e62c0b7d151c113365ca19",
-    "files": {
-      "edges": [
-        {
-          "node": {
-            "path": "HIP/hip-1313.md",
-            "changeType": "ADDED",
-            "additions": 341,
-            "deletions": 0
-          }
-        }
-      ]
-    },
-    "author": {
-      "login": "jsync-swirlds"
-    }
-  },
-  {
-    "title": "feat: add entity hip",
-    "number": 1272,
-    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1272",
-    "headRefOid": "0e3a0216c1dfd1f6d5e28846ba837e4ddcf5cb27",
-    "files": {
-      "edges": [
-        {
-          "node": {
-            "path": "HIP/hip-1272.md",
-            "changeType": "ADDED",
-            "additions": 117,
-            "deletions": 0
-          }
-        }
-      ]
-    },
-    "author": {
-      "login": "kantorcodes"
+      "login": "Neurone"
     }
   },
   {
     "title": "HIP-1264: Dollar-denominated values",
-    "number": 1264,
-    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1264",
+    "number": 1333,
+    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1333",
     "headRefOid": "4a3bfb49fed1e04be1208d9754a2f012d8569534",
     "files": {
       "edges": [
@@ -137,6 +95,69 @@
     },
     "author": {
       "login": "Neurone"
+    }
+  },
+  {
+    "title": " An `ExtendedAssetChanges` extra for large atomic swaps",
+    "number": 1331,
+    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1331",
+    "headRefOid": "2f1e7aea522a42679f246f3839795e324594fa9a",
+    "files": {
+      "edges": [
+        {
+          "node": {
+            "path": "HIP/hip-extended-xfers.md",
+            "changeType": "ADDED",
+            "additions": 225,
+            "deletions": 0
+          }
+        }
+      ]
+    },
+    "author": {
+      "login": "tinker-michaelj"
+    }
+  },
+  {
+    "title": "HIP-1313: Enable a new high volume entity creation option",
+    "number": 1313,
+    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1313",
+    "headRefOid": "f7e058123eb3557148e62c0b7d151c113365ca19",
+    "files": {
+      "edges": [
+        {
+          "node": {
+            "path": "HIP/hip-1313.md",
+            "changeType": "ADDED",
+            "additions": 341,
+            "deletions": 0
+          }
+        }
+      ]
+    },
+    "author": {
+      "login": "jsync-swirlds"
+    }
+  },
+  {
+    "title": "feat: add entity hip",
+    "number": 1272,
+    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1272",
+    "headRefOid": "0e3a0216c1dfd1f6d5e28846ba837e4ddcf5cb27",
+    "files": {
+      "edges": [
+        {
+          "node": {
+            "path": "HIP/hip-1272.md",
+            "changeType": "ADDED",
+            "additions": 117,
+            "deletions": 0
+          }
+        }
+      ]
+    },
+    "author": {
+      "login": "kantorcodes"
     }
   },
   {
