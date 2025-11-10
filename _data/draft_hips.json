@@ -3,14 +3,14 @@
     "title": "HIP-XXXX: Private Message Box Standard for Hiero Accounts",
     "number": 1334,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1334",
-    "headRefOid": "74f4a5e96ff497a1feb2260ded6764239339af71",
+    "headRefOid": "694756fd78a6d4f2cf17843e352cc19525845f51",
     "files": {
       "edges": [
         {
           "node": {
             "path": "HIP/hip-xxxx.md",
             "changeType": "ADDED",
-            "additions": 849,
+            "additions": 851,
             "deletions": 0
           }
         }
