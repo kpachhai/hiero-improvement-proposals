@@ -1,5 +1,84 @@
 [
   {
+    "title": "HIP-1342: Ignore Trailing Calldata for HTS System Contract",
+    "number": 1342,
+    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1342",
+    "headRefOid": "5229257568278f5cf95ae12f1f69d9687af7baa0",
+    "files": {
+      "edges": [
+        {
+          "node": {
+            "path": "HIP/hip-0000-hts-trailing-calldata.md",
+            "changeType": "ADDED",
+            "additions": 170,
+            "deletions": 0
+          }
+        }
+      ]
+    },
+    "author": {
+      "login": "Neurone"
+    }
+  },
+  {
+    "title": "General Pectra HIP",
+    "number": 1341,
+    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1341",
+    "headRefOid": "6247a36f7abfa1a2d0ae15af565ca3037973cde1",
+    "files": {
+      "edges": [
+        {
+          "node": {
+            "path": "HIP/hip-1341.md",
+            "changeType": "ADDED",
+            "additions": 141,
+            "deletions": 0
+          }
+        }
+      ]
+    },
+    "author": {
+      "login": "lukelee-sl"
+    }
+  },
+  {
+    "title": "HIP-xxxx: Pectra's EOA Code Delegation",
+    "number": 1340,
+    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1340",
+    "headRefOid": "5a8d167c981fb88a4268631a67fb412886ab9307",
+    "files": {
+      "edges": [
+        {
+          "node": {
+            "path": "HIP/hip-0000-code-delegation.md",
+            "changeType": "ADDED",
+            "additions": 161,
+            "deletions": 0
+          }
+        },
+        {
+          "node": {
+            "path": "assets/hip-0000/hip_0000_has_facade.png",
+            "changeType": "ADDED",
+            "additions": 0,
+            "deletions": 0
+          }
+        },
+        {
+          "node": {
+            "path": "assets/hip-0000/hip_0000_hts_facade.png",
+            "changeType": "ADDED",
+            "additions": 0,
+            "deletions": 0
+          }
+        }
+      ]
+    },
+    "author": {
+      "login": "lukasz-hashgraph"
+    }
+  },
+  {
     "title": "HIP-1334: Private Message Box Standard for Hiero Accounts",
     "number": 1334,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1334",
@@ -227,14 +306,14 @@
     "title": "Improvements to the Wallet Connect implementation for dApps on Hedera",
     "number": 1190,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1190",
-    "headRefOid": "033b0fdf4cdb1aaa617c39105ff23992dca3bf73",
+    "headRefOid": "b00ce951c7acf4664c7f90f78d5de4a4e8e3d9d6",
     "files": {
       "edges": [
         {
           "node": {
             "path": "HIP/hip-1190.md",
             "changeType": "ADDED",
-            "additions": 210,
+            "additions": 211,
             "deletions": 0
           }
         }
