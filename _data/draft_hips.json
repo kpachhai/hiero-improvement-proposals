@@ -303,27 +303,6 @@
     }
   },
   {
-    "title": "Improvements to the Wallet Connect implementation for dApps on Hedera",
-    "number": 1190,
-    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1190",
-    "headRefOid": "b00ce951c7acf4664c7f90f78d5de4a4e8e3d9d6",
-    "files": {
-      "edges": [
-        {
-          "node": {
-            "path": "HIP/hip-1190.md",
-            "changeType": "ADDED",
-            "additions": 211,
-            "deletions": 0
-          }
-        }
-      ]
-    },
-    "author": {
-      "login": "mgarbs"
-    }
-  },
-  {
     "title": "Recreate hip-851.md",
     "number": 1182,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1182",
