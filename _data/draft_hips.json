@@ -24,7 +24,7 @@
     "title": "General Pectra HIP",
     "number": 1341,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1341",
-    "headRefOid": "cd03c52a45dea969a346dc74e476b6f87e51927f",
+    "headRefOid": "7bf95f903b8c32383ebdb4143adf2b714feb2f47",
     "files": {
       "edges": [
         {
@@ -82,12 +82,12 @@
     "title": "HIP-1334: Private Message Box Standard for Hiero Accounts",
     "number": 1334,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1334",
-    "headRefOid": "d76b5091c30c6590d87e8706c97f228d9712df29",
+    "headRefOid": "a86a3f2d7ea0c0e1094702cd9d1cd5e330d93658",
     "files": {
       "edges": [
         {
           "node": {
-            "path": "HIP/hip-xxxx.md",
+            "path": "HIP/hip-1334.md",
             "changeType": "ADDED",
             "additions": 844,
             "deletions": 0
@@ -180,14 +180,14 @@
     "title": " An `ExtendedAssetChanges` extra for large atomic swaps",
     "number": 1331,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1331",
-    "headRefOid": "2f1e7aea522a42679f246f3839795e324594fa9a",
+    "headRefOid": "ee2b5c1f5080404c97f31c23342253288492e19f",
     "files": {
       "edges": [
         {
           "node": {
-            "path": "HIP/hip-extended-xfers.md",
+            "path": "HIP/hip-1331.md",
             "changeType": "ADDED",
-            "additions": 225,
+            "additions": 224,
             "deletions": 0
           }
         }
