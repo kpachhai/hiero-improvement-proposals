@@ -8,9 +8,9 @@ category: Service
 needs-hiero-approval: Yes
 needs-hedera-review: Yes
 status: Draft
-discussions-to: <URL of the GitHub Pull Request for this HIP>
+discussions-to: 
 created: 2025-11-12
-updated: 2025-11-12
+updated: 2025-11-20
 ---
 
 ## Abstract
