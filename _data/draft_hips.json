@@ -1,5 +1,26 @@
 [
   {
+    "title": "HIP-1347: Coherent Token Expiry Timestamp Encoding",
+    "number": 1347,
+    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1347",
+    "headRefOid": "c98e48fc6e4b16f072b1e07636082416ae06da28",
+    "files": {
+      "edges": [
+        {
+          "node": {
+            "path": "HIP/hip-1347-coherent-expiry-timestamp.md",
+            "changeType": "ADDED",
+            "additions": 250,
+            "deletions": 0
+          }
+        }
+      ]
+    },
+    "author": {
+      "login": "Neurone"
+    }
+  },
+  {
     "title": "HIP-1342: Ignore Trailing Calldata for HTS System Contract",
     "number": 1342,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1342",
