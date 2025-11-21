@@ -45,7 +45,7 @@
     "title": "HIP-1342: Ignore Trailing Calldata for HTS System Contract",
     "number": 1342,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1342",
-    "headRefOid": "5229257568278f5cf95ae12f1f69d9687af7baa0",
+    "headRefOid": "a92638bd8849a1ed35a6b83c96145fd17634f242",
     "files": {
       "edges": [
         {
