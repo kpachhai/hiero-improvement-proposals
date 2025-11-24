@@ -87,14 +87,22 @@
     "title": "HIP-1340: Pectra's EOA Code Delegation",
     "number": 1340,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1340",
-    "headRefOid": "4b3922938236df4018d99af5ec5f6d3f78a5c0c0",
+    "headRefOid": "6e3e90948e87c9e0c3aa51f592023229e15461bd",
     "files": {
       "edges": [
         {
           "node": {
             "path": "HIP/hip-1340.md",
             "changeType": "ADDED",
-            "additions": 161,
+            "additions": 247,
+            "deletions": 0
+          }
+        },
+        {
+          "node": {
+            "path": "assets/hip-1340/hip_1340_example_user_flow.png",
+            "changeType": "ADDED",
+            "additions": 0,
             "deletions": 0
           }
         },
@@ -109,6 +117,14 @@
         {
           "node": {
             "path": "assets/hip-1340/hip_1340_hts_facade.png",
+            "changeType": "ADDED",
+            "additions": 0,
+            "deletions": 0
+          }
+        },
+        {
+          "node": {
+            "path": "assets/hip-1340/hip_1340_summary_of_changes.png",
             "changeType": "ADDED",
             "additions": 0,
             "deletions": 0
