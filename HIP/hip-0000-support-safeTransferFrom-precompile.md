@@ -58,6 +58,7 @@ This dual implementation ensures compatibility with both tooling-based interacti
 The following ERC-721 standard function selectors will be recognized by both the HTS precompile (`0x167`) and the HTS facade contract:
 
 | hash | signature | Notes |
+| --- | --- | --- |
 | 0x42842e0e | safeTransferFrom(address,address,uint256) | Standard ERC-721 safe transfer |
 | 0xb88d4fde | safeTransferFrom(address,address,uint256,bytes) | Standard ERC-721 safe transfer with data payload |
 
