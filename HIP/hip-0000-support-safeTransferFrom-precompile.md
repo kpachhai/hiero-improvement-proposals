@@ -33,7 +33,7 @@ This proposal extends the HTS precompile to handle `safeTransferFrom` calls for 
 
 ### Dual Support Design
 
-1. **Precompile Support(0x167)**:
+1. **Precompile Support (0x167)**:
 
 - Direct smart contract calls to the HTS precompile will now recognize the two standard `safeTransferFrom` function selectors.
 - The precompile performs ownership and approval checks, auto-association (if possible), and the `onERC721Received` callback for contract recipients.
