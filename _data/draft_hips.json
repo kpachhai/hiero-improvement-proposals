@@ -66,14 +66,14 @@
     "title": "HIP-1341: General Pectra HIP",
     "number": 1341,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1341",
-    "headRefOid": "16b086b399ab6552d7f47721afe0095f6331306a",
+    "headRefOid": "fa0d446bfa59fc715f74563be776f3e6a2718312",
     "files": {
       "edges": [
         {
           "node": {
             "path": "HIP/hip-1341.md",
             "changeType": "ADDED",
-            "additions": 143,
+            "additions": 151,
             "deletions": 0
           }
         }
