@@ -105,23 +105,23 @@
     }
   },
   {
-    "title": "HIP-1340: Pectra's EOA Code Delegation",
+    "title": "HIP-1340: EOA Code Delegation",
     "number": 1340,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1340",
-    "headRefOid": "6e3e90948e87c9e0c3aa51f592023229e15461bd",
+    "headRefOid": "82cc9cc1f76e949f2ce34378757496a008b365bc",
     "files": {
       "edges": [
         {
           "node": {
             "path": "HIP/hip-1340.md",
             "changeType": "ADDED",
-            "additions": 247,
+            "additions": 376,
             "deletions": 0
           }
         },
         {
           "node": {
-            "path": "assets/hip-1340/hip_1340_example_user_flow.png",
+            "path": "assets/hip-1340/eoa_code_delegation_high_level.png",
             "changeType": "ADDED",
             "additions": 0,
             "deletions": 0
@@ -129,7 +129,7 @@
         },
         {
           "node": {
-            "path": "assets/hip-1340/hip_1340_has_facade.png",
+            "path": "assets/hip-1340/example_user_flow_native.png",
             "changeType": "ADDED",
             "additions": 0,
             "deletions": 0
@@ -137,7 +137,7 @@
         },
         {
           "node": {
-            "path": "assets/hip-1340/hip_1340_hts_facade.png",
+            "path": "assets/hip-1340/example_user_flow_type_4.png",
             "changeType": "ADDED",
             "additions": 0,
             "deletions": 0
@@ -145,7 +145,23 @@
         },
         {
           "node": {
-            "path": "assets/hip-1340/hip_1340_summary_of_changes.png",
+            "path": "assets/hip-1340/has_facade.png",
+            "changeType": "ADDED",
+            "additions": 0,
+            "deletions": 0
+          }
+        },
+        {
+          "node": {
+            "path": "assets/hip-1340/hscs_hts_interoperability.png",
+            "changeType": "ADDED",
+            "additions": 0,
+            "deletions": 0
+          }
+        },
+        {
+          "node": {
+            "path": "assets/hip-1340/hts_hss_facade.png",
             "changeType": "ADDED",
             "additions": 0,
             "deletions": 0
