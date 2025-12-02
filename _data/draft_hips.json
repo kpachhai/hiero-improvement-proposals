@@ -296,14 +296,14 @@
     "title": "HIP-1313: Enable a new high volume entity creation option",
     "number": 1313,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1313",
-    "headRefOid": "f219097b9e878befc2762f30f480227469e18e39",
+    "headRefOid": "b5ca8ec551161a38f61a70eada061d88e91ee14d",
     "files": {
       "edges": [
         {
           "node": {
             "path": "HIP/hip-1313.md",
             "changeType": "ADDED",
-            "additions": 377,
+            "additions": 379,
             "deletions": 0
           }
         }
