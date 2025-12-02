@@ -24,7 +24,7 @@
     "title": "safeTransferFrom support for HTS Precompile and Facade Contract",
     "number": 1349,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1349",
-    "headRefOid": "78af070bb597b2a7c2ec387b57683045eefb051d",
+    "headRefOid": "42c5cf65e064c285ac5a5664c4da43cf73cbb982",
     "files": {
       "edges": [
         {
@@ -275,14 +275,14 @@
     "title": " An `ExtendedAssetChanges` extra for large atomic swaps",
     "number": 1331,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1331",
-    "headRefOid": "ee2b5c1f5080404c97f31c23342253288492e19f",
+    "headRefOid": "ccc9bc34aa311fedae95baede0edabfceea5bab4",
     "files": {
       "edges": [
         {
           "node": {
             "path": "HIP/hip-1331.md",
             "changeType": "ADDED",
-            "additions": 224,
+            "additions": 232,
             "deletions": 0
           }
         }
