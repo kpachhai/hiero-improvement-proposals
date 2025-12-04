@@ -3,14 +3,14 @@
     "title": "New HIP \"Add `isAssociated(address account)` to HTS Token Facade Contract\"",
     "number": 1351,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1351",
-    "headRefOid": "98dd8668c8138084b48f6bb31eec2a503465e32a",
+    "headRefOid": "db7574f022859b0c23bf07c98bcc1973e45644fc",
     "files": {
       "edges": [
         {
           "node": {
-            "path": "HIP/hip-xxxx.md",
+            "path": "HIP/hip-1351.md",
             "changeType": "ADDED",
-            "additions": 159,
+            "additions": 157,
             "deletions": 0
           }
         }
