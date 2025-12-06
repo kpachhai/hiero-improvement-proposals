@@ -440,27 +440,6 @@
     }
   },
   {
-    "title": "Support for Post-Quantum Cryptographic Algorithm",
-    "number": 1103,
-    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1103",
-    "headRefOid": "a440591f358a21f33647e0b76c649e9a9d34ab1c",
-    "files": {
-      "edges": [
-        {
-          "node": {
-            "path": "HIP/hip-support-for-post-quantum-cryptographic-algorithm.md",
-            "changeType": "ADDED",
-            "additions": 100,
-            "deletions": 0
-          }
-        }
-      ]
-    },
-    "author": {
-      "login": "JeremyPansier"
-    }
-  },
-  {
     "title": "Sponsored Fees",
     "number": 1068,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1068",
