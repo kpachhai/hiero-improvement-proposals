@@ -443,14 +443,14 @@
     "title": "HIP-1137: Block Node Discoverability",
     "number": 1137,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1137",
-    "headRefOid": "ffb358ff310286d78fcdb8f43169193894475777",
+    "headRefOid": "e45fba227c3ddd12dc7da9ad38d49613f2345527",
     "files": {
       "edges": [
         {
           "node": {
             "path": "HIP/hip-1137.md",
             "changeType": "ADDED",
-            "additions": 499,
+            "additions": 616,
             "deletions": 0
           }
         }
