@@ -419,27 +419,6 @@
     }
   },
   {
-    "title": "Recreate hip-851.md",
-    "number": 1182,
-    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1182",
-    "headRefOid": "52fa4cfe17c347b4e0aa146e020aefdb7d163149",
-    "files": {
-      "edges": [
-        {
-          "node": {
-            "path": "HIP/hip-851.md",
-            "changeType": "ADDED",
-            "additions": 217,
-            "deletions": 0
-          }
-        }
-      ]
-    },
-    "author": {
-      "login": "mgarbs"
-    }
-  },
-  {
     "title": "HIP-1137: Block Node Discoverability",
     "number": 1137,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1137",
