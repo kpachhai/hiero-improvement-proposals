@@ -129,14 +129,14 @@
     "title": "HIP-1340: EOA Code Delegation",
     "number": 1340,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1340",
-    "headRefOid": "258845b03516ff1207414e3252b2c3d7f9b0dd6c",
+    "headRefOid": "3789bed3825adbf4677c47e58c7e8b1384bea011",
     "files": {
       "edges": [
         {
           "node": {
             "path": "HIP/hip-1340.md",
             "changeType": "ADDED",
-            "additions": 388,
+            "additions": 389,
             "deletions": 0
           }
         },
@@ -311,27 +311,6 @@
     },
     "author": {
       "login": "tinker-michaelj"
-    }
-  },
-  {
-    "title": "HIP-1313: Enable a new high volume entity creation option",
-    "number": 1313,
-    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1313",
-    "headRefOid": "bd6c18041cc21b6e270e6581e736aad3479283c1",
-    "files": {
-      "edges": [
-        {
-          "node": {
-            "path": "HIP/hip-1313.md",
-            "changeType": "ADDED",
-            "additions": 379,
-            "deletions": 0
-          }
-        }
-      ]
-    },
-    "author": {
-      "login": "jsync-swirlds"
     }
   },
   {
