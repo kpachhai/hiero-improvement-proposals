@@ -548,27 +548,6 @@
     }
   },
   {
-    "title": "feat(HIP): Increase CryptoCreate Throttle to 20,000 milliOpsPerSec",
-    "number": 1225,
-    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1225",
-    "headRefOid": "ac66abbc8895525757bc3170c216f4ce8c454e98",
-    "files": {
-      "edges": [
-        {
-          "node": {
-            "path": "HIP/hip-0000-increase-cryptocreate-throttle.md",
-            "changeType": "ADDED",
-            "additions": 93,
-            "deletions": 0
-          }
-        }
-      ]
-    },
-    "author": {
-      "login": "tonycamero"
-    }
-  },
-  {
     "title": "HIP-1208: Consensus Service Precompiled Contract for Smart Contract Service",
     "number": 1208,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1208",
