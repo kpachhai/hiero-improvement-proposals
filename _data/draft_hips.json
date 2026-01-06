@@ -342,14 +342,14 @@
     "title": "HIP-1340: EOA Code Delegation",
     "number": 1340,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1340",
-    "headRefOid": "a5f4bb56e3bf3f4c9292b9d8b6b003cad6c33efb",
+    "headRefOid": "645d80ddff7d631843b351159763635f4f30cc14",
     "files": {
       "edges": [
         {
           "node": {
             "path": "HIP/hip-1340.md",
             "changeType": "ADDED",
-            "additions": 389,
+            "additions": 393,
             "deletions": 0
           }
         },
