@@ -3,7 +3,7 @@
     "title": "Feat/hcs registry hip",
     "number": 1364,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1364",
-    "headRefOid": "87238fa66a723592375994e7f31b9700b9224a91",
+    "headRefOid": "591729f8c29b1d7a33628e917eb96304dec2a03b",
     "files": {
       "edges": [
         {
@@ -342,14 +342,14 @@
     "title": "HIP-1340: EOA Code Delegation",
     "number": 1340,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1340",
-    "headRefOid": "257e88416eb95044d8825016dca382d38fb2eb9d",
+    "headRefOid": "e23965a79c7d6fde028b7896da8fd855ac2b6f43",
     "files": {
       "edges": [
         {
           "node": {
             "path": "HIP/hip-1340.md",
             "changeType": "ADDED",
-            "additions": 580,
+            "additions": 586,
             "deletions": 0
           }
         },
