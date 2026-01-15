@@ -1,5 +1,82 @@
 [
   {
+    "title": "HIP-1264: Dollar-denominated values",
+    "number": 1373,
+    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1373",
+    "headRefOid": "4a3bfb49fed1e04be1208d9754a2f012d8569534",
+    "files": {
+      "edges": [
+        {
+          "node": {
+            "path": "HIP/hip-1264.md",
+            "changeType": "ADDED",
+            "additions": 286,
+            "deletions": 0
+          }
+        },
+        {
+          "node": {
+            "path": "assets/hip-1264/contrib/chart.umd.min.js",
+            "changeType": "ADDED",
+            "additions": 14,
+            "deletions": 0
+          }
+        },
+        {
+          "node": {
+            "path": "assets/hip-1264/contrib/chartjs-adapter-date-fns.bundle.min.js",
+            "changeType": "ADDED",
+            "additions": 7,
+            "deletions": 0
+          }
+        },
+        {
+          "node": {
+            "path": "assets/hip-1264/contrib/chartjs-plugin-annotation.min.js",
+            "changeType": "ADDED",
+            "additions": 7,
+            "deletions": 0
+          }
+        },
+        {
+          "node": {
+            "path": "assets/hip-1264/contrib/chartjs-plugin-zoom.min.js",
+            "changeType": "ADDED",
+            "additions": 7,
+            "deletions": 0
+          }
+        },
+        {
+          "node": {
+            "path": "assets/hip-1264/contrib/pako.min.js",
+            "changeType": "ADDED",
+            "additions": 2,
+            "deletions": 0
+          }
+        },
+        {
+          "node": {
+            "path": "assets/hip-1264/index.css",
+            "changeType": "ADDED",
+            "additions": 576,
+            "deletions": 0
+          }
+        },
+        {
+          "node": {
+            "path": "assets/hip-1264/index.html",
+            "changeType": "ADDED",
+            "additions": 1033,
+            "deletions": 0
+          }
+        }
+      ]
+    },
+    "author": {
+      "login": "Neurone"
+    }
+  },
+  {
     "title": "chore: Update HIP-1193 status to Review",
     "number": 1369,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1369",
@@ -318,17 +395,17 @@
     }
   },
   {
-    "title": "HIP-1342: Ignore Trailing Calldata for HTS System Contract",
+    "title": "HIP-1342: Ignore Trailing Calldata for System Contracts",
     "number": 1342,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1342",
-    "headRefOid": "a92638bd8849a1ed35a6b83c96145fd17634f242",
+    "headRefOid": "99f352e27976e6edd3773cea04a8679b8831bc53",
     "files": {
       "edges": [
         {
           "node": {
             "path": "HIP/hip-0000-hts-trailing-calldata.md",
             "changeType": "ADDED",
-            "additions": 170,
+            "additions": 177,
             "deletions": 0
           }
         }
@@ -440,83 +517,6 @@
             "path": "HIP/hip-1334.md",
             "changeType": "ADDED",
             "additions": 844,
-            "deletions": 0
-          }
-        }
-      ]
-    },
-    "author": {
-      "login": "Neurone"
-    }
-  },
-  {
-    "title": "HIP-1264: Dollar-denominated values",
-    "number": 1333,
-    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1333",
-    "headRefOid": "4a3bfb49fed1e04be1208d9754a2f012d8569534",
-    "files": {
-      "edges": [
-        {
-          "node": {
-            "path": "HIP/hip-1264.md",
-            "changeType": "ADDED",
-            "additions": 286,
-            "deletions": 0
-          }
-        },
-        {
-          "node": {
-            "path": "assets/hip-1264/contrib/chart.umd.min.js",
-            "changeType": "ADDED",
-            "additions": 14,
-            "deletions": 0
-          }
-        },
-        {
-          "node": {
-            "path": "assets/hip-1264/contrib/chartjs-adapter-date-fns.bundle.min.js",
-            "changeType": "ADDED",
-            "additions": 7,
-            "deletions": 0
-          }
-        },
-        {
-          "node": {
-            "path": "assets/hip-1264/contrib/chartjs-plugin-annotation.min.js",
-            "changeType": "ADDED",
-            "additions": 7,
-            "deletions": 0
-          }
-        },
-        {
-          "node": {
-            "path": "assets/hip-1264/contrib/chartjs-plugin-zoom.min.js",
-            "changeType": "ADDED",
-            "additions": 7,
-            "deletions": 0
-          }
-        },
-        {
-          "node": {
-            "path": "assets/hip-1264/contrib/pako.min.js",
-            "changeType": "ADDED",
-            "additions": 2,
-            "deletions": 0
-          }
-        },
-        {
-          "node": {
-            "path": "assets/hip-1264/index.css",
-            "changeType": "ADDED",
-            "additions": 576,
-            "deletions": 0
-          }
-        },
-        {
-          "node": {
-            "path": "assets/hip-1264/index.html",
-            "changeType": "ADDED",
-            "additions": 1033,
             "deletions": 0
           }
         }
