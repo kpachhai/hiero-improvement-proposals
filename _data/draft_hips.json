@@ -1,14 +1,14 @@
 [
   {
-    "title": "HIP-1264: Dollar-denominated values",
+    "title": "HIP-1373: Dollar-denominated values",
     "number": 1373,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1373",
-    "headRefOid": "4a3bfb49fed1e04be1208d9754a2f012d8569534",
+    "headRefOid": "bfb30d58f03fdc6ce4fccdb63a0dba822fe3f6f8",
     "files": {
       "edges": [
         {
           "node": {
-            "path": "HIP/hip-1264.md",
+            "path": "HIP/hip-1373.md",
             "changeType": "ADDED",
             "additions": 286,
             "deletions": 0
@@ -16,7 +16,7 @@
         },
         {
           "node": {
-            "path": "assets/hip-1264/contrib/chart.umd.min.js",
+            "path": "assets/hip-1373/contrib/chart.umd.min.js",
             "changeType": "ADDED",
             "additions": 14,
             "deletions": 0
@@ -24,7 +24,7 @@
         },
         {
           "node": {
-            "path": "assets/hip-1264/contrib/chartjs-adapter-date-fns.bundle.min.js",
+            "path": "assets/hip-1373/contrib/chartjs-adapter-date-fns.bundle.min.js",
             "changeType": "ADDED",
             "additions": 7,
             "deletions": 0
@@ -32,7 +32,7 @@
         },
         {
           "node": {
-            "path": "assets/hip-1264/contrib/chartjs-plugin-annotation.min.js",
+            "path": "assets/hip-1373/contrib/chartjs-plugin-annotation.min.js",
             "changeType": "ADDED",
             "additions": 7,
             "deletions": 0
@@ -40,7 +40,7 @@
         },
         {
           "node": {
-            "path": "assets/hip-1264/contrib/chartjs-plugin-zoom.min.js",
+            "path": "assets/hip-1373/contrib/chartjs-plugin-zoom.min.js",
             "changeType": "ADDED",
             "additions": 7,
             "deletions": 0
@@ -48,7 +48,7 @@
         },
         {
           "node": {
-            "path": "assets/hip-1264/contrib/pako.min.js",
+            "path": "assets/hip-1373/contrib/pako.min.js",
             "changeType": "ADDED",
             "additions": 2,
             "deletions": 0
@@ -56,7 +56,7 @@
         },
         {
           "node": {
-            "path": "assets/hip-1264/index.css",
+            "path": "assets/hip-1373/index.css",
             "changeType": "ADDED",
             "additions": 576,
             "deletions": 0
@@ -64,9 +64,9 @@
         },
         {
           "node": {
-            "path": "assets/hip-1264/index.html",
+            "path": "assets/hip-1373/index.html",
             "changeType": "ADDED",
-            "additions": 1033,
+            "additions": 1031,
             "deletions": 0
           }
         }
