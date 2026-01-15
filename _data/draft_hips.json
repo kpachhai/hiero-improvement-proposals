@@ -1,5 +1,26 @@
 [
   {
+    "title": "chore: Update HIP-1193 status to Review",
+    "number": 1369,
+    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1369",
+    "headRefOid": "f1c9a553301cc07a821df14423c5f97a7fe5bfef",
+    "files": {
+      "edges": [
+        {
+          "node": {
+            "path": "HIP/hip-1193.md",
+            "changeType": "ADDED",
+            "additions": 267,
+            "deletions": 0
+          }
+        }
+      ]
+    },
+    "author": {
+      "login": "mgarbs"
+    }
+  },
+  {
     "title": "Feat/hcs registry hip",
     "number": 1364,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1364",
