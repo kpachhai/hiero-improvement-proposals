@@ -1,5 +1,26 @@
 [
   {
+    "title": "HIP-1193: Records to block streams cutover",
+    "number": 1381,
+    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1381",
+    "headRefOid": "90e8fd02d4faf1252c109fbeeeff48126f157c10",
+    "files": {
+      "edges": [
+        {
+          "node": {
+            "path": "HIP/hip-1193.md",
+            "changeType": "ADDED",
+            "additions": 266,
+            "deletions": 0
+          }
+        }
+      ]
+    },
+    "author": {
+      "login": "mgarbs"
+    }
+  },
+  {
     "title": "HIP-1373: Dollar-denominated values",
     "number": 1373,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1373",
@@ -74,27 +95,6 @@
     },
     "author": {
       "login": "Neurone"
-    }
-  },
-  {
-    "title": "chore: Update HIP-1193 status to Review",
-    "number": 1369,
-    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1369",
-    "headRefOid": "f1c9a553301cc07a821df14423c5f97a7fe5bfef",
-    "files": {
-      "edges": [
-        {
-          "node": {
-            "path": "HIP/hip-1193.md",
-            "changeType": "ADDED",
-            "additions": 267,
-            "deletions": 0
-          }
-        }
-      ]
-    },
-    "author": {
-      "login": "mgarbs"
     }
   },
   {
@@ -374,27 +374,6 @@
     }
   },
   {
-    "title": "HIP-1347: Coherent Token Expiry Timestamp Encoding",
-    "number": 1347,
-    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1347",
-    "headRefOid": "c98e48fc6e4b16f072b1e07636082416ae06da28",
-    "files": {
-      "edges": [
-        {
-          "node": {
-            "path": "HIP/hip-1347-coherent-expiry-timestamp.md",
-            "changeType": "ADDED",
-            "additions": 250,
-            "deletions": 0
-          }
-        }
-      ]
-    },
-    "author": {
-      "login": "Neurone"
-    }
-  },
-  {
     "title": "HIP-1342: Ignore Trailing Calldata for System Contracts",
     "number": 1342,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1342",
@@ -506,27 +485,6 @@
     }
   },
   {
-    "title": "HIP-1334: Private Message Box Standard for Hiero Accounts",
-    "number": 1334,
-    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1334",
-    "headRefOid": "a86a3f2d7ea0c0e1094702cd9d1cd5e330d93658",
-    "files": {
-      "edges": [
-        {
-          "node": {
-            "path": "HIP/hip-1334.md",
-            "changeType": "ADDED",
-            "additions": 844,
-            "deletions": 0
-          }
-        }
-      ]
-    },
-    "author": {
-      "login": "Neurone"
-    }
-  },
-  {
     "title": " An `ExtendedAssetChanges` extra for large atomic swaps",
     "number": 1331,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1331",
@@ -593,7 +551,7 @@
     "title": "HIP-1193 - Records to block streams cutover",
     "number": 1193,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1193",
-    "headRefOid": "b6a950e96b6cd1374c424c0b6760f93dc8b06ae7",
+    "headRefOid": "ae4b309b57589db350541412ae8967525064fc8e",
     "files": {
       "edges": [
         {
