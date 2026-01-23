@@ -314,14 +314,14 @@
     "title": "Tier 1 Block Node Operation Rewards",
     "number": 1357,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1357",
-    "headRefOid": "cd2abd9cdf21009640e52c6670e7dd79b3f6962d",
+    "headRefOid": "06262a0a88cbd362c3df3814e7cc8602e24b9756",
     "files": {
       "edges": [
         {
           "node": {
             "path": "HIP/hip-1357.md",
             "changeType": "ADDED",
-            "additions": 159,
+            "additions": 93,
             "deletions": 0
           }
         }
